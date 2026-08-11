@@ -2,25 +2,26 @@
 import fs from "node:fs";
 const inputPath=process.argv[2],outputPath=process.argv[3]||"cards.json";
 if(!inputPath)throw new Error("Usage: node scripts/generate-cards.mjs <source-export.json> [cards.json]");
-const input=JSON.parse(fs.readFileSync(inputPath,"utf8"));
-const rows=Array.isArray(input.rows)?input.rows:input.tabs?.[0]?.rows;
+const input=JSON.parse(fs.readFileSync(inputPath,"utf8")),rows=Array.isArray(input.rows)?input.rows:input.tabs?.[0]?.rows;
 if(!Array.isArray(rows)||rows.length<2)throw new Error("Input must contain rows with a header row");
-const REQUIRED=["Topics","Thai word","Phonetic word","English word","Example phrase","English example phrase","Date added"];
+const REQUIRED=["Topics","Thai word","Phonetic word","English word","Example phrase","English example phrase","Date added","Literal example phrase"];
 const normalize=value=>String(value??"").trim(),headers=rows[0].map(normalize);
 const index=Object.fromEntries(REQUIRED.map(header=>[header,headers.findIndex(h=>h.toLowerCase()===header.toLowerCase())]));
 for(const header of REQUIRED)if(index[header]<0)throw new Error(`Missing header "${header}"`);
 const hash=value=>{let h=0xcbf29ce484222325n;for(let i=0;i<value.length;i++){const code=value.charCodeAt(i);h^=BigInt(code&255);h=BigInt.asUintN(64,h*0x100000001b3n);h^=BigInt(code>>>8);h=BigInt.asUintN(64,h*0x100000001b3n)}return h.toString(16).padStart(16,"0")};
+const oneMarker=(value,row,label)=>{if((value.match(/\[/g)||[]).length!==1||(value.match(/\]/g)||[]).length!==1||!/^[^\[]*\[[^\[\]]+\][^\]]*$/.test(value))throw new Error(`${label} must contain exactly one [marked span] at row ${row}`)};
 const seen=new Map(),topics=[],topicKeys=new Set();
 const cards=rows.slice(1).filter(row=>row.some(value=>normalize(value))).map((row,position)=>{
  const cardTopics=normalize(row[index["Topics"]]).split(",").map(normalize).filter(Boolean);if(!cardTopics.length)cardTopics.push("Generic");
- const thai=normalize(row[index["Thai word"]]),phonetic=normalize(row[index["Phonetic word"]]),english=normalize(row[index["English word"]]),exampleThai=normalize(row[index["Example phrase"]]),exampleEnglish=normalize(row[index["English example phrase"]]),dateAdded=normalize(row[index["Date added"]]);
- if(![thai,phonetic,english,exampleThai,exampleEnglish,dateAdded].every(Boolean))throw new Error(`Incomplete row ${position+2}`);
- if(!exampleThai.includes(thai))throw new Error(`Example does not contain Thai word at row ${position+2}`);
+ const thai=normalize(row[index["Thai word"]]),phonetic=normalize(row[index["Phonetic word"]]),english=normalize(row[index["English word"]]),exampleThai=normalize(row[index["Example phrase"]]),exampleEnglish=normalize(row[index["English example phrase"]]),exampleLiteral=normalize(row[index["Literal example phrase"]]),dateAdded=normalize(row[index["Date added"]]);
+ if(![thai,phonetic,english,exampleThai,exampleEnglish,exampleLiteral,dateAdded].every(Boolean))throw new Error(`Incomplete row ${position+2}`);
+ oneMarker(exampleThai,position+2,"Example phrase");oneMarker(exampleEnglish,position+2,"English example phrase");oneMarker(exampleLiteral,position+2,"Literal example phrase");
+ if(exampleThai.match(/\[([^\]]+)\]/)?.[1]!==thai)throw new Error(`Thai marker must contain the exact Thai word at row ${position+2}`);
  if(!/^\d{4}-\d{2}-\d{2}$/.test(dateAdded))throw new Error(`Invalid Date added at row ${position+2}`);
  for(const topic of cardTopics){const key=topic.toLowerCase();if(!topicKeys.has(key)){topicKeys.add(key);topics.push(topic)}}
  const identity=hash([thai,phonetic,english].join("\0")),occurrence=(seen.get(identity)||0)+1;seen.set(identity,occurrence);
- return{id:`card-${identity}-${occurrence}`,topics:cardTopics,thai,phonetic,english,exampleThai,exampleEnglish,dateAdded,position};
+ return{id:`card-${identity}-${occurrence}`,topics:cardTopics,thai,phonetic,english,exampleThai,exampleEnglish,exampleLiteral,dateAdded,position};
 });
-const canonical=JSON.stringify({schemaVersion:2,topics,cards});
-const output={schemaVersion:2,generatedAt:new Date().toISOString(),sourceRevision:hash(canonical),sourceSpreadsheet:"Thai Flash Cards",topics,cards};
+const canonical=JSON.stringify({schemaVersion:3,topics,cards});
+const output={schemaVersion:3,generatedAt:new Date().toISOString(),sourceRevision:hash(canonical),sourceSpreadsheet:"Thai Flash Cards",topics,cards};
 fs.writeFileSync(outputPath,JSON.stringify(output,null,2)+"\n");
