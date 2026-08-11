@@ -1,0 +1,1455 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-11T06:39:23.765Z",
+  "sourceRevision": "838bdd583c9f0d7d",
+  "sourceSpreadsheet": "Thai Flash Cards",
+  "topics": [
+    "Daily life",
+    "Animals",
+    "Leisure",
+    "Actions",
+    "Technology",
+    "Grammar",
+    "Home",
+    "Choices",
+    "Numbers",
+    "Language",
+    "Comparison",
+    "Frequency",
+    "Quantity",
+    "Senses",
+    "Life",
+    "Completion",
+    "Social",
+    "Food",
+    "Work",
+    "Weather",
+    "Education",
+    "Geography",
+    "Places",
+    "Travel",
+    "Nature",
+    "Time",
+    "Family",
+    "People",
+    "Feelings",
+    "Relationships",
+    "Rest",
+    "Planning",
+    "Description",
+    "Interests",
+    "Exercise",
+    "Movement",
+    "Body",
+    "Conversation",
+    "Questions",
+    "Independence",
+    "Muay Thai"
+  ],
+  "cards": [
+    {
+      "id": "card-a0885458e732332a-1",
+      "topics": [
+        "Daily life"
+      ],
+      "thai": "ยุ่ง",
+      "phonetic": "yûng",
+      "english": "busy",
+      "exampleThai": "วันนี้คุณยุ่งไหม",
+      "exampleEnglish": "Are you busy today?",
+      "dateAdded": "2026-08-11",
+      "position": 0
+    },
+    {
+      "id": "card-54d90f02a04eb1c8-1",
+      "topics": [
+        "Animals"
+      ],
+      "thai": "ยุง",
+      "phonetic": "yung",
+      "english": "mosquito",
+      "exampleThai": "เมื่อคืนมียุงในห้องนอน",
+      "exampleEnglish": "There was a mosquito in the bedroom last night.",
+      "dateAdded": "2026-08-11",
+      "position": 1
+    },
+    {
+      "id": "card-bda5f924cd297bcb-1",
+      "topics": [
+        "Leisure"
+      ],
+      "thai": "งานอดิเรก",
+      "phonetic": "ngaan à-dì-rêek",
+      "english": "hobby",
+      "exampleThai": "งานอดิเรกของผมคือทำอาหาร",
+      "exampleEnglish": "My hobby is cooking.",
+      "dateAdded": "2026-08-11",
+      "position": 2
+    },
+    {
+      "id": "card-1d58782f5022f97b-1",
+      "topics": [
+        "Actions"
+      ],
+      "thai": "ทำ",
+      "phonetic": "tam",
+      "english": "do / make",
+      "exampleThai": "เย็นนี้คุณจะทำอะไร",
+      "exampleEnglish": "What are you going to do this evening?",
+      "dateAdded": "2026-08-11",
+      "position": 3
+    },
+    {
+      "id": "card-3f75e6a5c435cb10-1",
+      "topics": [
+        "Technology"
+      ],
+      "thai": "อิเล็กทรอนิกส์",
+      "phonetic": "ì-lék-trɔɔ-ník",
+      "english": "electronics",
+      "exampleThai": "ผมชอบเรียนอิเล็กทรอนิกส์",
+      "exampleEnglish": "I like studying electronics.",
+      "dateAdded": "2026-08-11",
+      "position": 4
+    },
+    {
+      "id": "card-8c9906363cd6c5ae-1",
+      "topics": [
+        "Grammar"
+      ],
+      "thai": "ตัว",
+      "phonetic": "dtua",
+      "english": "classifier for objects",
+      "exampleThai": "เสื้อตัวนี้เล็กเกินไป",
+      "exampleEnglish": "This shirt is too small.",
+      "dateAdded": "2026-08-11",
+      "position": 5
+    },
+    {
+      "id": "card-1d58782f5022f97b-2",
+      "topics": [
+        "Actions"
+      ],
+      "thai": "ทำ",
+      "phonetic": "tam",
+      "english": "do / make",
+      "exampleThai": "คุณจะทำอะไรวันหยุดนี้",
+      "exampleEnglish": "What are you going to do this weekend?",
+      "dateAdded": "2026-08-11",
+      "position": 6
+    },
+    {
+      "id": "card-3924b2b3f38ef3ba-1",
+      "topics": [
+        "Home"
+      ],
+      "thai": "ไฟ",
+      "phonetic": "fai",
+      "english": "light / electricity",
+      "exampleThai": "ช่วยปิดไฟก่อนออกจากห้อง",
+      "exampleEnglish": "Please turn off the light before leaving the room.",
+      "dateAdded": "2026-08-11",
+      "position": 7
+    },
+    {
+      "id": "card-125a35f69dcf95af-1",
+      "topics": [
+        "Choices"
+      ],
+      "thai": "แล้วแต่",
+      "phonetic": "láew-dtàe",
+      "english": "it depends / up to",
+      "exampleThai": "เย็นนี้กินอะไรดี แล้วแต่คุณ",
+      "exampleEnglish": "What should we eat tonight? It's up to you.",
+      "dateAdded": "2026-08-11",
+      "position": 8
+    },
+    {
+      "id": "card-b36b0917693f34ff-1",
+      "topics": [
+        "Numbers"
+      ],
+      "thai": "ตัวเลข",
+      "phonetic": "dtua-lêek",
+      "english": "number",
+      "exampleThai": "รหัสนี้ไม่มีตัวเลข",
+      "exampleEnglish": "This code has no numbers.",
+      "dateAdded": "2026-08-11",
+      "position": 9
+    },
+    {
+      "id": "card-7363a3647031a518-1",
+      "topics": [
+        "Language"
+      ],
+      "thai": "ตัวหนังสือ",
+      "phonetic": "dtua-nǎng-sʉ̌ʉ",
+      "english": "letters / writing",
+      "exampleThai": "ตัวหนังสือบนป้ายเล็กมาก",
+      "exampleEnglish": "The writing on the sign is very small.",
+      "dateAdded": "2026-08-11",
+      "position": 10
+    },
+    {
+      "id": "card-0530d969b4912d90-1",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "คล้าย",
+      "phonetic": "kláai",
+      "english": "similar",
+      "exampleThai": "ร้านนี้คล้ายร้านที่เชียงใหม่",
+      "exampleEnglish": "This restaurant is similar to one in Chiang Mai.",
+      "dateAdded": "2026-08-11",
+      "position": 11
+    },
+    {
+      "id": "card-0ff260b8164438c5-1",
+      "topics": [
+        "Frequency"
+      ],
+      "thai": "ทุก",
+      "phonetic": "túk",
+      "english": "every",
+      "exampleThai": "ผมฝึกภาษาไทยทุกวัน",
+      "exampleEnglish": "I practise Thai every day.",
+      "dateAdded": "2026-08-11",
+      "position": 12
+    },
+    {
+      "id": "card-c0c68aacb16e00f7-1",
+      "topics": [
+        "Quantity"
+      ],
+      "thai": "บาง",
+      "phonetic": "baang",
+      "english": "some",
+      "exampleThai": "บางวันผมทำงานที่บ้าน",
+      "exampleEnglish": "Some days I work from home.",
+      "dateAdded": "2026-08-11",
+      "position": 13
+    },
+    {
+      "id": "card-6ca61486ac651c19-1",
+      "topics": [
+        "Quantity"
+      ],
+      "thai": "หลาย",
+      "phonetic": "lǎai",
+      "english": "many",
+      "exampleThai": "เขาพูดได้หลายภาษา",
+      "exampleEnglish": "He speaks many languages.",
+      "dateAdded": "2026-08-11",
+      "position": 14
+    },
+    {
+      "id": "card-386b7d78b5be8ffc-1",
+      "topics": [
+        "Language"
+      ],
+      "thai": "ภาษา",
+      "phonetic": "paa-sǎa",
+      "english": "language",
+      "exampleThai": "คุณพูดภาษาอะไรบ้าง",
+      "exampleEnglish": "Which languages do you speak?",
+      "dateAdded": "2026-08-11",
+      "position": 15
+    },
+    {
+      "id": "card-823bba73ef7d50d6-1",
+      "topics": [
+        "Home"
+      ],
+      "thai": "บ้าน",
+      "phonetic": "bâan",
+      "english": "home / house",
+      "exampleThai": "ที่บ้านผมได้ยินหลายภาษา",
+      "exampleEnglish": "I hear many languages at home.",
+      "dateAdded": "2026-08-11",
+      "position": 16
+    },
+    {
+      "id": "card-86d2ec819cdaf40c-1",
+      "topics": [
+        "Senses"
+      ],
+      "thai": "ได้ยิน",
+      "phonetic": "dâai-yin",
+      "english": "hear",
+      "exampleThai": "ผมได้ยินเสียงฝนข้างนอก",
+      "exampleEnglish": "I hear the rain outside.",
+      "dateAdded": "2026-08-11",
+      "position": 17
+    },
+    {
+      "id": "card-3612243841145846-1",
+      "topics": [
+        "Life"
+      ],
+      "thai": "โต",
+      "phonetic": "dtoo",
+      "english": "grow up",
+      "exampleThai": "ผมโตที่เนเธอร์แลนด์",
+      "exampleEnglish": "I grew up in the Netherlands.",
+      "dateAdded": "2026-08-11",
+      "position": 18
+    },
+    {
+      "id": "card-081a46cb93a578a7-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "เสร็จ",
+      "phonetic": "sèt",
+      "english": "finish / be finished",
+      "exampleThai": "เรียนเสร็จแล้วคุณทำอะไร",
+      "exampleEnglish": "What do you do after class finishes?",
+      "dateAdded": "2026-08-11",
+      "position": 19
+    },
+    {
+      "id": "card-54341b8a513be974-1",
+      "topics": [
+        "Social"
+      ],
+      "thai": "มุก",
+      "phonetic": "múk",
+      "english": "joke",
+      "exampleThai": "ผมชอบเล่นมุกกับเพื่อน",
+      "exampleEnglish": "I like joking with my friends.",
+      "dateAdded": "2026-08-11",
+      "position": 20
+    },
+    {
+      "id": "card-145de8891523d177-1",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "ที่สุด",
+      "phonetic": "tîi-sùt",
+      "english": "the most / favourite",
+      "exampleThai": "คุณชอบทำอะไรมากที่สุด",
+      "exampleEnglish": "What do you like doing most?",
+      "dateAdded": "2026-08-11",
+      "position": 21
+    },
+    {
+      "id": "card-6954013278559fbb-1",
+      "topics": [
+        "Food"
+      ],
+      "thai": "ข้าว",
+      "phonetic": "kâao",
+      "english": "rice / meal",
+      "exampleThai": "ผมชอบกินข้าวกับแกง",
+      "exampleEnglish": "I like eating rice with curry.",
+      "dateAdded": "2026-08-11",
+      "position": 22
+    },
+    {
+      "id": "card-35080b512232c1c5-1",
+      "topics": [
+        "Work"
+      ],
+      "thai": "วิศวกร",
+      "phonetic": "wít-sà-wá-gɔɔn",
+      "english": "engineer",
+      "exampleThai": "พี่ชายของผมเป็นวิศวกร",
+      "exampleEnglish": "My older brother is an engineer.",
+      "dateAdded": "2026-08-11",
+      "position": 23
+    },
+    {
+      "id": "card-537aadb7aa3932a9-1",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "ที่สุด",
+      "phonetic": "tîi-sùt",
+      "english": "the most",
+      "exampleThai": "ร้านนี้อร่อยที่สุดในย่านนี้",
+      "exampleEnglish": "This restaurant is the most delicious in this neighbourhood.",
+      "dateAdded": "2026-08-11",
+      "position": 24
+    },
+    {
+      "id": "card-f6dbcb543c80085a-1",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "กว่า",
+      "phonetic": "gwàa",
+      "english": "more than",
+      "exampleThai": "วันนี้ร้อนกว่าเมื่อวาน",
+      "exampleEnglish": "Today is hotter than yesterday.",
+      "dateAdded": "2026-08-11",
+      "position": 25
+    },
+    {
+      "id": "card-4a31b33b82c5d3e8-1",
+      "topics": [
+        "Weather"
+      ],
+      "thai": "ร้อน",
+      "phonetic": "rɔ́ɔn",
+      "english": "hot",
+      "exampleThai": "กรุงเทพฯ ร้อนกว่าบ้านผม",
+      "exampleEnglish": "Bangkok is hotter than where I live.",
+      "dateAdded": "2026-08-11",
+      "position": 26
+    },
+    {
+      "id": "card-1510776335d749f4-1",
+      "topics": [
+        "Food"
+      ],
+      "thai": "อร่อย",
+      "phonetic": "à-rɔ̀i",
+      "english": "delicious",
+      "exampleThai": "อาหารร้านนี้อร่อยมาก",
+      "exampleEnglish": "The food at this restaurant is very delicious.",
+      "dateAdded": "2026-08-11",
+      "position": 27
+    },
+    {
+      "id": "card-d09c2756fbea58a9-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "สมุด",
+      "phonetic": "sà-mùt",
+      "english": "notebook",
+      "exampleThai": "ผมจดคำใหม่ลงในสมุด",
+      "exampleEnglish": "I write new words in my notebook.",
+      "dateAdded": "2026-08-11",
+      "position": 28
+    },
+    {
+      "id": "card-58b4d9c843b5b466-1",
+      "topics": [
+        "Geography"
+      ],
+      "thai": "มหาสมุทร",
+      "phonetic": "má-hǎa-sà-mùt",
+      "english": "ocean",
+      "exampleThai": "เครื่องบินบินข้ามมหาสมุทร",
+      "exampleEnglish": "The aeroplane flies across the ocean.",
+      "dateAdded": "2026-08-11",
+      "position": 29
+    },
+    {
+      "id": "card-8718efe274e5bf6a-1",
+      "topics": [
+        "Places"
+      ],
+      "thai": "จีน",
+      "phonetic": "jiin",
+      "english": "China / Chinese",
+      "exampleThai": "อาหารจีนร้านนี้อร่อยมาก",
+      "exampleEnglish": "The Chinese food at this restaurant is very delicious.",
+      "dateAdded": "2026-08-11",
+      "position": 30
+    },
+    {
+      "id": "card-0c915f2a454c30e0-1",
+      "topics": [
+        "Travel"
+      ],
+      "thai": "ทะเล",
+      "phonetic": "tá-lee",
+      "english": "sea",
+      "exampleThai": "วันหยุดเราไปทะเลกัน",
+      "exampleEnglish": "Let's go to the sea on our day off.",
+      "dateAdded": "2026-08-11",
+      "position": 31
+    },
+    {
+      "id": "card-9c1100425ddef1d7-1",
+      "topics": [
+        "Nature"
+      ],
+      "thai": "ทราย",
+      "phonetic": "saai",
+      "english": "sand",
+      "exampleThai": "ทรายบนชายหาดร้อนมาก",
+      "exampleEnglish": "The sand on the beach is very hot.",
+      "dateAdded": "2026-08-11",
+      "position": 32
+    },
+    {
+      "id": "card-384a07be81e4d1a2-1",
+      "topics": [
+        "Time"
+      ],
+      "thai": "ตอนนี้",
+      "phonetic": "dtɔɔn-níi",
+      "english": "now",
+      "exampleThai": "ตอนนี้ครอบครัวของคุณอยู่ที่ไหน",
+      "exampleEnglish": "Where is your family now?",
+      "dateAdded": "2026-08-11",
+      "position": 33
+    },
+    {
+      "id": "card-fe4c378ccc64ddd4-1",
+      "topics": [
+        "Grammar"
+      ],
+      "thai": "ของคุณ",
+      "phonetic": "kɔ̌ɔng-kun",
+      "english": "your / yours",
+      "exampleThai": "กระเป๋าใบนี้เป็นของคุณไหม",
+      "exampleEnglish": "Is this bag yours?",
+      "dateAdded": "2026-08-11",
+      "position": 34
+    },
+    {
+      "id": "card-7770d1ad8743c0d0-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "ครอบครัว",
+      "phonetic": "krɔ̂ɔp-krua",
+      "english": "family",
+      "exampleThai": "ครอบครัวของผมอยู่เนเธอร์แลนด์",
+      "exampleEnglish": "My family is in the Netherlands.",
+      "dateAdded": "2026-08-11",
+      "position": 35
+    },
+    {
+      "id": "card-f27004939c063c38-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "คุณแม่",
+      "phonetic": "kun-mâe",
+      "english": "mother",
+      "exampleThai": "คุณแม่อยู่ที่บ้าน",
+      "exampleEnglish": "My mother is at home.",
+      "dateAdded": "2026-08-11",
+      "position": 36
+    },
+    {
+      "id": "card-b84adb0348e998f3-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "คุณพ่อ",
+      "phonetic": "kun-pɔ̂ɔ",
+      "english": "father",
+      "exampleThai": "คุณพ่ออยู่ที่เนเธอร์แลนด์",
+      "exampleEnglish": "My father is in the Netherlands.",
+      "dateAdded": "2026-08-11",
+      "position": 37
+    },
+    {
+      "id": "card-6656552a546ccb39-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "ลูกชายคนเดียว",
+      "phonetic": "lûuk-chaai kon-diao",
+      "english": "only son",
+      "exampleThai": "ผมเป็นลูกชายคนเดียว",
+      "exampleEnglish": "I am an only son.",
+      "dateAdded": "2026-08-11",
+      "position": 38
+    },
+    {
+      "id": "card-3cbd02bd918252cc-1",
+      "topics": [
+        "People"
+      ],
+      "thai": "ผู้ชาย",
+      "phonetic": "pûu-chaai",
+      "english": "man",
+      "exampleThai": "ผู้ชายคนนั้นกำลังรอรถ",
+      "exampleEnglish": "That man is waiting for a vehicle.",
+      "dateAdded": "2026-08-11",
+      "position": 39
+    },
+    {
+      "id": "card-c45ec6c204ba5b84-1",
+      "topics": [
+        "People"
+      ],
+      "thai": "ผู้หญิง",
+      "phonetic": "pûu-yǐng",
+      "english": "woman",
+      "exampleThai": "ผู้หญิงคนนั้นเป็นหมอ",
+      "exampleEnglish": "That woman is a doctor.",
+      "dateAdded": "2026-08-11",
+      "position": 40
+    },
+    {
+      "id": "card-df12971877dc52c0-1",
+      "topics": [
+        "People"
+      ],
+      "thai": "คนเดียว",
+      "phonetic": "kon-diao",
+      "english": "alone / only one",
+      "exampleThai": "วันนี้ผมกินข้าวคนเดียว",
+      "exampleEnglish": "Today I am eating alone.",
+      "dateAdded": "2026-08-11",
+      "position": 41
+    },
+    {
+      "id": "card-93ec4f896925344b-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "ลูกสาว",
+      "phonetic": "lûuk-sǎao",
+      "english": "daughter",
+      "exampleThai": "ลูกสาวของเขาเรียนที่เชียงใหม่",
+      "exampleEnglish": "His daughter studies in Chiang Mai.",
+      "dateAdded": "2026-08-11",
+      "position": 42
+    },
+    {
+      "id": "card-b6564187e26176fe-1",
+      "topics": [
+        "Family"
+      ],
+      "thai": "น้องชาย",
+      "phonetic": "nɔ́ɔng-chaai",
+      "english": "younger brother",
+      "exampleThai": "ฉันมีน้องชายหนึ่งคน",
+      "exampleEnglish": "I have one younger brother.",
+      "dateAdded": "2026-08-11",
+      "position": 43
+    },
+    {
+      "id": "card-410ebf9b0e2e3eab-1",
+      "topics": [
+        "Time"
+      ],
+      "thai": "ยัง",
+      "phonetic": "yang",
+      "english": "still / yet",
+      "exampleThai": "เขายังเด็กอยู่",
+      "exampleEnglish": "He is still young.",
+      "dateAdded": "2026-08-11",
+      "position": 44
+    },
+    {
+      "id": "card-c98a85c21d183354-1",
+      "topics": [
+        "Feelings"
+      ],
+      "thai": "คิดถึง",
+      "phonetic": "kít-tʉ̌ng",
+      "english": "miss / think of",
+      "exampleThai": "ผมคิดถึงครอบครัวเวลาเดินทาง",
+      "exampleEnglish": "I miss my family when I travel.",
+      "dateAdded": "2026-08-11",
+      "position": 45
+    },
+    {
+      "id": "card-a8535eced3b87f64-1",
+      "topics": [
+        "Frequency"
+      ],
+      "thai": "ปกติ",
+      "phonetic": "bpòk-gà-dtì",
+      "english": "normally",
+      "exampleThai": "ปกติผมตื่นเจ็ดโมง",
+      "exampleEnglish": "I normally wake up at seven.",
+      "dateAdded": "2026-08-11",
+      "position": 46
+    },
+    {
+      "id": "card-66147cbc9fddd969-1",
+      "topics": [
+        "Time"
+      ],
+      "thai": "หลังจาก",
+      "phonetic": "lǎng-jàak",
+      "english": "after",
+      "exampleThai": "หลังจากหกเดือนผมกลับบ้าน",
+      "exampleEnglish": "After six months, I returned home.",
+      "dateAdded": "2026-08-11",
+      "position": 47
+    },
+    {
+      "id": "card-0c456fb9dcd9721b-1",
+      "topics": [
+        "Relationships"
+      ],
+      "thai": "ทะเลาะ",
+      "phonetic": "tá-lɔ́",
+      "english": "argue",
+      "exampleThai": "ผมไม่อยากทะเลาะกับคุณแม่",
+      "exampleEnglish": "I do not want to argue with my mother.",
+      "dateAdded": "2026-08-11",
+      "position": 48
+    },
+    {
+      "id": "card-d02936c792b300ae-1",
+      "topics": [
+        "Rest"
+      ],
+      "thai": "พัก",
+      "phonetic": "pák",
+      "english": "rest / pause",
+      "exampleThai": "เหนื่อยแล้วพักก่อน",
+      "exampleEnglish": "If you are tired, rest first.",
+      "dateAdded": "2026-08-11",
+      "position": 49
+    },
+    {
+      "id": "card-c3e1db2a37008423-1",
+      "topics": [
+        "Feelings"
+      ],
+      "thai": "ตื่นเต้น",
+      "phonetic": "dtʉ̀ʉn-dtên",
+      "english": "exciting / excited",
+      "exampleThai": "พรุ่งนี้จะไปเชียงใหม่ ผมตื่นเต้นมาก",
+      "exampleEnglish": "I am very excited to go to Chiang Mai tomorrow.",
+      "dateAdded": "2026-08-11",
+      "position": 50
+    },
+    {
+      "id": "card-83d76a5f54c44277-1",
+      "topics": [
+        "Feelings"
+      ],
+      "thai": "ตื่นเต้น",
+      "phonetic": "dtʉ̀ʉn-dtên",
+      "english": "excited",
+      "exampleThai": "เด็กๆ ตื่นเต้นกับการเดินทาง",
+      "exampleEnglish": "The children are excited about the trip.",
+      "dateAdded": "2026-08-11",
+      "position": 51
+    },
+    {
+      "id": "card-161559bffe9c500b-1",
+      "topics": [
+        "Time"
+      ],
+      "thai": "อาทิตย์หน้า",
+      "phonetic": "aa-tít nâa",
+      "english": "next week",
+      "exampleThai": "อาทิตย์หน้าผมจะไปเชียงใหม่",
+      "exampleEnglish": "I am going to Chiang Mai next week.",
+      "dateAdded": "2026-08-11",
+      "position": 52
+    },
+    {
+      "id": "card-98814ce873a32c73-1",
+      "topics": [
+        "Rest"
+      ],
+      "thai": "พักผ่อน",
+      "phonetic": "pák-pɔ̀ɔn",
+      "english": "relax",
+      "exampleThai": "วันอาทิตย์ผมพักผ่อนที่บ้าน",
+      "exampleEnglish": "I relax at home on Sundays.",
+      "dateAdded": "2026-08-11",
+      "position": 53
+    },
+    {
+      "id": "card-647c6f4995f787d0-1",
+      "topics": [
+        "Planning"
+      ],
+      "thai": "วางแผน",
+      "phonetic": "waang-pɛ̌ɛn",
+      "english": "plan",
+      "exampleThai": "คุณวางแผนไปที่ไหน",
+      "exampleEnglish": "Where are you planning to go?",
+      "dateAdded": "2026-08-11",
+      "position": 54
+    },
+    {
+      "id": "card-595235d2bf1607b0-1",
+      "topics": [
+        "Description"
+      ],
+      "thai": "ใหม่",
+      "phonetic": "mài",
+      "english": "new",
+      "exampleThai": "ผมอยากไปดูอะไรใหม่ๆ",
+      "exampleEnglish": "I want to go and see something new.",
+      "dateAdded": "2026-08-11",
+      "position": 55
+    },
+    {
+      "id": "card-440b7aba948360bd-1",
+      "topics": [
+        "Interests"
+      ],
+      "thai": "สนใจ",
+      "phonetic": "sǒn-jai",
+      "english": "interested",
+      "exampleThai": "คุณสนใจเรียนมวยไทยไหม",
+      "exampleEnglish": "Are you interested in learning Muay Thai?",
+      "dateAdded": "2026-08-11",
+      "position": 56
+    },
+    {
+      "id": "card-50e75b31bb59c7df-1",
+      "topics": [
+        "Exercise"
+      ],
+      "thai": "เดิน",
+      "phonetic": "dəən",
+      "english": "walk",
+      "exampleThai": "ตอนเย็นผมเดินรอบสวน",
+      "exampleEnglish": "In the evening I walk around the park.",
+      "dateAdded": "2026-08-11",
+      "position": 57
+    },
+    {
+      "id": "card-6f8801d3e4a1f60c-1",
+      "topics": [
+        "Exercise"
+      ],
+      "thai": "วิ่ง",
+      "phonetic": "wîng",
+      "english": "run",
+      "exampleThai": "เช้านี้ผมวิ่งห้ากิโลเมตร",
+      "exampleEnglish": "I ran five kilometres this morning.",
+      "dateAdded": "2026-08-11",
+      "position": 58
+    },
+    {
+      "id": "card-775bb2d29300e625-1",
+      "topics": [
+        "Exercise"
+      ],
+      "thai": "เดินเล่น",
+      "phonetic": "dəən-lên",
+      "english": "stroll",
+      "exampleThai": "ผมชอบเดินเล่นหลังอาหารเย็น",
+      "exampleEnglish": "I like taking a walk after dinner.",
+      "dateAdded": "2026-08-11",
+      "position": 59
+    },
+    {
+      "id": "card-dc3ac5391502ad4a-1",
+      "topics": [
+        "Exercise"
+      ],
+      "thai": "ออกกำลังกาย",
+      "phonetic": "ɔ̀ɔk-gam-lang-gaai",
+      "english": "exercise",
+      "exampleThai": "ผมออกกำลังกายสามครั้งต่อสัปดาห์",
+      "exampleEnglish": "I exercise three times per week.",
+      "dateAdded": "2026-08-11",
+      "position": 60
+    },
+    {
+      "id": "card-e7aa35eb62c9b91d-1",
+      "topics": [
+        "Movement"
+      ],
+      "thai": "ออก",
+      "phonetic": "ɔ̀ɔk",
+      "english": "go out / exit",
+      "exampleThai": "เขาออกจากบ้านตอนแปดโมง",
+      "exampleEnglish": "He leaves the house at eight.",
+      "dateAdded": "2026-08-11",
+      "position": 61
+    },
+    {
+      "id": "card-cebd8e29e7741c62-1",
+      "topics": [
+        "Grammar"
+      ],
+      "thai": "กำลัง",
+      "phonetic": "gam-lang",
+      "english": "currently / -ing",
+      "exampleThai": "ผมกำลังเรียนภาษาไทย",
+      "exampleEnglish": "I am studying Thai.",
+      "dateAdded": "2026-08-11",
+      "position": 62
+    },
+    {
+      "id": "card-d7a8278520833597-1",
+      "topics": [
+        "Body"
+      ],
+      "thai": "ร่างกาย",
+      "phonetic": "râang-gaai",
+      "english": "body",
+      "exampleThai": "การนอนช่วยให้ร่างกายฟื้นตัว",
+      "exampleEnglish": "Sleep helps the body recover.",
+      "dateAdded": "2026-08-11",
+      "position": 63
+    },
+    {
+      "id": "card-437dab74154fb606-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "เรียน",
+      "phonetic": "rian",
+      "english": "study / learn",
+      "exampleThai": "ผมกำลังเรียนภาษาไทย",
+      "exampleEnglish": "I am studying Thai.",
+      "dateAdded": "2026-08-11",
+      "position": 64
+    },
+    {
+      "id": "card-dc3ac5391502ad4a-2",
+      "topics": [
+        "Exercise"
+      ],
+      "thai": "ออกกำลังกาย",
+      "phonetic": "ɔ̀ɔk-gam-lang-gaai",
+      "english": "exercise",
+      "exampleThai": "ผมชอบออกกำลังกายตอนเช้า",
+      "exampleEnglish": "I like exercising in the morning.",
+      "dateAdded": "2026-08-11",
+      "position": 65
+    },
+    {
+      "id": "card-e23753da2c4f9715-1",
+      "topics": [
+        "Conversation"
+      ],
+      "thai": "นั่นแหละ",
+      "phonetic": "nân-lɛ̀",
+      "english": "exactly / that's it",
+      "exampleThai": "ใช่ นั่นแหละที่ผมหาอยู่",
+      "exampleEnglish": "Yes, that's exactly what I was looking for.",
+      "dateAdded": "2026-08-11",
+      "position": 66
+    },
+    {
+      "id": "card-a8e573031bc06428-1",
+      "topics": [
+        "Quantity"
+      ],
+      "thai": "ทั้งสอง",
+      "phonetic": "táng-sɔ̌ɔng",
+      "english": "both",
+      "exampleThai": "ผมชอบทั้งสองร้าน",
+      "exampleEnglish": "I like both restaurants.",
+      "dateAdded": "2026-08-11",
+      "position": 67
+    },
+    {
+      "id": "card-2e87ae4771ae8c74-1",
+      "topics": [
+        "Quantity"
+      ],
+      "thai": "ทั้งหมด",
+      "phonetic": "táng-mòt",
+      "english": "all / everything",
+      "exampleThai": "ผมอ่านหนังสือทั้งหมดแล้ว",
+      "exampleEnglish": "I have read all the books.",
+      "dateAdded": "2026-08-11",
+      "position": 68
+    },
+    {
+      "id": "card-fd51c84201c7d6bd-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "หมด",
+      "phonetic": "mòt",
+      "english": "all gone / used up",
+      "exampleThai": "พิซซ่าหมดแล้ว",
+      "exampleEnglish": "The pizza is all gone.",
+      "dateAdded": "2026-08-11",
+      "position": 69
+    },
+    {
+      "id": "card-93de778f4fe21c2c-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "เสร็จ",
+      "phonetic": "sèt",
+      "english": "finish an action",
+      "exampleThai": "ผมทำงานเสร็จแล้ว",
+      "exampleEnglish": "I have finished my work.",
+      "dateAdded": "2026-08-11",
+      "position": 70
+    },
+    {
+      "id": "card-e4a6bd1e6424c936-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "จบ",
+      "phonetic": "jòp",
+      "english": "end / complete",
+      "exampleThai": "หนังจบตอนเที่ยงคืน",
+      "exampleEnglish": "The film ends at midnight.",
+      "dateAdded": "2026-08-11",
+      "position": 71
+    },
+    {
+      "id": "card-3bb6519fd0bd6e1a-1",
+      "topics": [
+        "Choices"
+      ],
+      "thai": "ได้หมด",
+      "phonetic": "dâai-mòt",
+      "english": "anything is fine",
+      "exampleThai": "กินอะไรดี ผมได้หมด",
+      "exampleEnglish": "What should we eat? Anything is fine with me.",
+      "dateAdded": "2026-08-11",
+      "position": 72
+    },
+    {
+      "id": "card-22dedfe03fd957b5-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "ดูจบ",
+      "phonetic": "duu-jòp",
+      "english": "finish watching",
+      "exampleThai": "เมื่อคืนผมดูจบตอนเที่ยงคืน",
+      "exampleEnglish": "I finished watching it at midnight last night.",
+      "dateAdded": "2026-08-11",
+      "position": 73
+    },
+    {
+      "id": "card-7fe094dc41f2384e-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "อ่านจบ",
+      "phonetic": "àan-jòp",
+      "english": "finish reading",
+      "exampleThai": "ผมอ่านจบแล้วก่อนขึ้นเครื่อง",
+      "exampleEnglish": "I finished reading it before boarding the plane.",
+      "dateAdded": "2026-08-11",
+      "position": 74
+    },
+    {
+      "id": "card-7ebbf2f71896fe20-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "เรียนจบ",
+      "phonetic": "rian-jòp",
+      "english": "graduate",
+      "exampleThai": "น้องสาวเรียนจบมหาวิทยาลัยแล้ว",
+      "exampleEnglish": "My younger sister has graduated from university.",
+      "dateAdded": "2026-08-11",
+      "position": 75
+    },
+    {
+      "id": "card-b2d55f5ec74996ca-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "มหาวิทยาลัย",
+      "phonetic": "má-hǎa-wít-tá-yaa-lai",
+      "english": "university",
+      "exampleThai": "เขาเรียนที่มหาวิทยาลัยเชียงใหม่",
+      "exampleEnglish": "He studies at Chiang Mai University.",
+      "dateAdded": "2026-08-11",
+      "position": 76
+    },
+    {
+      "id": "card-7ebbf2f71896fe20-2",
+      "topics": [
+        "Education"
+      ],
+      "thai": "เรียนจบ",
+      "phonetic": "rian-jòp",
+      "english": "graduate",
+      "exampleThai": "คุณเรียนจบที่ไหน",
+      "exampleEnglish": "Where did you graduate?",
+      "dateAdded": "2026-08-11",
+      "position": 77
+    },
+    {
+      "id": "card-52044952aef4fdf3-1",
+      "topics": [
+        "Time"
+      ],
+      "thai": "วันนี้",
+      "phonetic": "wan-níi",
+      "english": "today",
+      "exampleThai": "วันนี้ผมเรียนเสร็จแล้ว",
+      "exampleEnglish": "I finished studying today.",
+      "dateAdded": "2026-08-11",
+      "position": 78
+    },
+    {
+      "id": "card-a39716b692fe8275-1",
+      "topics": [
+        "Completion"
+      ],
+      "thai": "หมด",
+      "phonetic": "mòt",
+      "english": "all gone / finished",
+      "exampleThai": "ผมกินพิซซ่าหมดแล้ว",
+      "exampleEnglish": "I ate all the pizza.",
+      "dateAdded": "2026-08-11",
+      "position": 79
+    },
+    {
+      "id": "card-87d734544b59dc98-1",
+      "topics": [
+        "Questions"
+      ],
+      "thai": "ที่ไหน",
+      "phonetic": "tîi-nǎi",
+      "english": "where",
+      "exampleThai": "คุณเรียนจบที่ไหน",
+      "exampleEnglish": "Where did you graduate?",
+      "dateAdded": "2026-08-11",
+      "position": 80
+    },
+    {
+      "id": "card-cd4299db8ce121ff-1",
+      "topics": [
+        "Independence"
+      ],
+      "thai": "เอง",
+      "phonetic": "eeng",
+      "english": "by oneself",
+      "exampleThai": "ผมเรียนภาษาไทยเอง",
+      "exampleEnglish": "I study Thai by myself.",
+      "dateAdded": "2026-08-11",
+      "position": 81
+    },
+    {
+      "id": "card-cd4299db8ce121ff-2",
+      "topics": [
+        "Independence"
+      ],
+      "thai": "เอง",
+      "phonetic": "eeng",
+      "english": "by oneself",
+      "exampleThai": "เขาทำอาหารเอง",
+      "exampleEnglish": "He cooks by himself.",
+      "dateAdded": "2026-08-11",
+      "position": 82
+    },
+    {
+      "id": "card-a729efbcad74e2c4-1",
+      "topics": [
+        "Independence"
+      ],
+      "thai": "เอง",
+      "phonetic": "eeng",
+      "english": "self / by oneself",
+      "exampleThai": "ผมซ่อมจักรยานเอง",
+      "exampleEnglish": "I repair my bicycle myself.",
+      "dateAdded": "2026-08-11",
+      "position": 83
+    },
+    {
+      "id": "card-0b08b5f509b6cdff-1",
+      "topics": [
+        "Description"
+      ],
+      "thai": "ฉลาด",
+      "phonetic": "chà-làat",
+      "english": "clever",
+      "exampleThai": "คุณฉลาดมาก",
+      "exampleEnglish": "You are very clever.",
+      "dateAdded": "2026-08-11",
+      "position": 84
+    },
+    {
+      "id": "card-dcdab14008ea7019-1",
+      "topics": [
+        "Feelings"
+      ],
+      "thai": "กลัว",
+      "phonetic": "glua",
+      "english": "afraid",
+      "exampleThai": "ครูกลัวสุนัขนิดหน่อย",
+      "exampleEnglish": "The teacher is a little afraid of dogs.",
+      "dateAdded": "2026-08-11",
+      "position": 85
+    },
+    {
+      "id": "card-712eda1769a13ec4-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "ครู",
+      "phonetic": "kruu",
+      "english": "teacher",
+      "exampleThai": "ครูอธิบายคำนี้ช้าๆ",
+      "exampleEnglish": "The teacher explains this word slowly.",
+      "dateAdded": "2026-08-11",
+      "position": 86
+    },
+    {
+      "id": "card-0cb6143072199069-1",
+      "topics": [
+        "Education"
+      ],
+      "thai": "นักเรียน",
+      "phonetic": "nák-rian",
+      "english": "student",
+      "exampleThai": "นักเรียนกำลังอ่านหนังสือ",
+      "exampleEnglish": "The student is reading a book.",
+      "dateAdded": "2026-08-11",
+      "position": 87
+    },
+    {
+      "id": "card-34d233bc11609339-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ชก",
+      "phonetic": "chók",
+      "english": "punch",
+      "exampleThai": "ชกตรงไปที่เป้า",
+      "exampleEnglish": "Punch straight at the target.",
+      "dateAdded": "2026-08-11",
+      "position": 88
+    },
+    {
+      "id": "card-c8ea491cc13952a4-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "เตะ",
+      "phonetic": "dtè",
+      "english": "kick",
+      "exampleThai": "เตะขวาแล้วกลับมาตั้งการ์ด",
+      "exampleEnglish": "Kick with the right leg, then return to guard.",
+      "dateAdded": "2026-08-11",
+      "position": 89
+    },
+    {
+      "id": "card-e90cc2b3d2c49d3f-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ถีบ",
+      "phonetic": "tèep",
+      "english": "push kick",
+      "exampleThai": "ถีบเพื่อรักษาระยะ",
+      "exampleEnglish": "Use a push kick to maintain distance.",
+      "dateAdded": "2026-08-11",
+      "position": 90
+    },
+    {
+      "id": "card-aba86b7763b8446c-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "เข่า",
+      "phonetic": "kào",
+      "english": "knee",
+      "exampleThai": "เข้าใกล้แล้วตีเข่า",
+      "exampleEnglish": "Move in close, then strike with the knee.",
+      "dateAdded": "2026-08-11",
+      "position": 91
+    },
+    {
+      "id": "card-265d8f3c2f2985ea-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ศอก",
+      "phonetic": "sòk",
+      "english": "elbow",
+      "exampleThai": "หมุนตัวแล้วตีศอก",
+      "exampleEnglish": "Rotate your body, then strike with the elbow.",
+      "dateAdded": "2026-08-11",
+      "position": 92
+    },
+    {
+      "id": "card-2a421b7a857094ea-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ซ้าย",
+      "phonetic": "sáai",
+      "english": "left",
+      "exampleThai": "ก้าวซ้ายแล้วชก",
+      "exampleEnglish": "Step left, then punch.",
+      "dateAdded": "2026-08-11",
+      "position": 93
+    },
+    {
+      "id": "card-a08f208d7529d218-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ขวา",
+      "phonetic": "kwǎa",
+      "english": "right",
+      "exampleThai": "เตะขวาให้เร็ว",
+      "exampleEnglish": "Kick quickly with the right leg.",
+      "dateAdded": "2026-08-11",
+      "position": 94
+    },
+    {
+      "id": "card-ce31a01f3c545dc1-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ตั้งการ์ด",
+      "phonetic": "dtâng-gâat",
+      "english": "keep guard",
+      "exampleThai": "ตั้งการ์ดก่อนเข้าไป",
+      "exampleEnglish": "Put up your guard before moving in.",
+      "dateAdded": "2026-08-11",
+      "position": 95
+    },
+    {
+      "id": "card-cb60f7743571ae20-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ป้องกัน",
+      "phonetic": "bpâawng-gan",
+      "english": "defend",
+      "exampleThai": "ป้องกันตัวแล้วสวนกลับ",
+      "exampleEnglish": "Defend yourself, then counterattack.",
+      "dateAdded": "2026-08-11",
+      "position": 96
+    },
+    {
+      "id": "card-75fc137ed7f701e8-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "หลบ",
+      "phonetic": "lòp",
+      "english": "dodge",
+      "exampleThai": "หลบหมัดแล้วเตะกลับ",
+      "exampleEnglish": "Dodge the punch, then kick back.",
+      "dateAdded": "2026-08-11",
+      "position": 97
+    },
+    {
+      "id": "card-1f60239ababab2a8-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "เข้าไป",
+      "phonetic": "kâo-bpai",
+      "english": "move in",
+      "exampleThai": "เข้าไปใกล้อีกนิด",
+      "exampleEnglish": "Move a little closer.",
+      "dateAdded": "2026-08-11",
+      "position": 98
+    },
+    {
+      "id": "card-ff00f14c31f0e1a4-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "ออกมา",
+      "phonetic": "ɔ̀ɔk-maa",
+      "english": "move out",
+      "exampleThai": "ออกมาเมื่อคู่ต่อสู้บุก",
+      "exampleEnglish": "Move out when your opponent attacks.",
+      "dateAdded": "2026-08-11",
+      "position": 99
+    },
+    {
+      "id": "card-c5458bf2a431109d-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "เบาๆ",
+      "phonetic": "bao-bao",
+      "english": "lightly",
+      "exampleThai": "ซ้อมเบาๆ ก่อน",
+      "exampleEnglish": "Train lightly first.",
+      "dateAdded": "2026-08-11",
+      "position": 100
+    },
+    {
+      "id": "card-c2ffaa2fe3f4ba3a-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "แรงๆ",
+      "phonetic": "rɛɛng-rɛɛng",
+      "english": "with power",
+      "exampleThai": "เตะเป้าแรงๆ สามครั้ง",
+      "exampleEnglish": "Kick the pad hard three times.",
+      "dateAdded": "2026-08-11",
+      "position": 101
+    },
+    {
+      "id": "card-a2570b5b641d509b-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "สู้ๆ",
+      "phonetic": "sûu-sûu",
+      "english": "keep going",
+      "exampleThai": "ยกสุดท้ายแล้ว สู้ๆ",
+      "exampleEnglish": "It's the final round. Keep going.",
+      "dateAdded": "2026-08-11",
+      "position": 102
+    },
+    {
+      "id": "card-395ca9993ccee8e1-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "หมดเวลา",
+      "phonetic": "mòt-wee-laa",
+      "english": "time's up",
+      "exampleThai": "หมดเวลา พักหนึ่งนาที",
+      "exampleEnglish": "Time's up. Rest for one minute.",
+      "dateAdded": "2026-08-11",
+      "position": 103
+    },
+    {
+      "id": "card-14cc91a4056df591-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "แยก",
+      "phonetic": "yɛ̂ɛk",
+      "english": "separate",
+      "exampleThai": "แยกแล้วกลับไปที่มุม",
+      "exampleEnglish": "Separate, then return to your corner.",
+      "dateAdded": "2026-08-11",
+      "position": 104
+    },
+    {
+      "id": "card-a0072df4b5de526c-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "หยุด",
+      "phonetic": "yùt",
+      "english": "stop",
+      "exampleThai": "หยุดทันทีเมื่อได้ยินระฆัง",
+      "exampleEnglish": "Stop immediately when you hear the bell.",
+      "dateAdded": "2026-08-11",
+      "position": 105
+    },
+    {
+      "id": "card-c2ee3a4d80693020-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "จับ",
+      "phonetic": "jàp",
+      "english": "grab / clinch",
+      "exampleThai": "จับคอแล้วตีเข่า",
+      "exampleEnglish": "Clinch the neck, then strike with the knee.",
+      "dateAdded": "2026-08-11",
+      "position": 106
+    },
+    {
+      "id": "card-27bbf523ec1314ad-1",
+      "topics": [
+        "Muay Thai"
+      ],
+      "thai": "อย่าถอย",
+      "phonetic": "yàa-tɔ̌ɔi",
+      "english": "do not retreat",
+      "exampleThai": "อย่าถอย ให้หมุนออกด้านข้าง",
+      "exampleEnglish": "Do not retreat; pivot out to the side.",
+      "dateAdded": "2026-08-11",
+      "position": 107
+    }
+  ]
+}
