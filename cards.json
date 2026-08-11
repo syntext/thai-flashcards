@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-11T07:26:06.441Z",
-  "sourceRevision": "233aea9302bc7ccd",
+  "generatedAt": "2026-08-11T15:15:35.733Z",
+  "sourceRevision": "3f992469eae713c7",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -44,11 +44,28 @@
     "Conversation",
     "Questions",
     "Independence",
-    "Muay Thai"
+    "Muay Thai",
+    "Safety",
+    "Ideas",
+    "Language structure",
+    "Sequence",
+    "Word formation",
+    "Nominalization",
+    "Knowledge",
+    "Values",
+    "Causatives",
+    "Transport",
+    "Calendar",
+    "Weekdays",
+    "Months",
+    "Dates",
+    "Natural disasters",
+    "Clauses"
   ],
   "cards": [
     {
       "id": "card-a0885458e732332a-1",
+      "entryType": "Word",
       "topics": [
         "Daily life"
       ],
@@ -64,6 +81,7 @@
     },
     {
       "id": "card-54d90f02a04eb1c8-1",
+      "entryType": "Word",
       "topics": [
         "Animals"
       ],
@@ -79,6 +97,7 @@
     },
     {
       "id": "card-bda5f924cd297bcb-1",
+      "entryType": "Word",
       "topics": [
         "Leisure"
       ],
@@ -94,6 +113,7 @@
     },
     {
       "id": "card-1d58782f5022f97b-1",
+      "entryType": "Word",
       "topics": [
         "Actions"
       ],
@@ -109,6 +129,7 @@
     },
     {
       "id": "card-3f75e6a5c435cb10-1",
+      "entryType": "Word",
       "topics": [
         "Technology"
       ],
@@ -124,6 +145,7 @@
     },
     {
       "id": "card-8c9906363cd6c5ae-1",
+      "entryType": "Structure",
       "topics": [
         "Grammar"
       ],
@@ -139,6 +161,7 @@
     },
     {
       "id": "card-1d58782f5022f97b-2",
+      "entryType": "Word",
       "topics": [
         "Actions"
       ],
@@ -154,6 +177,7 @@
     },
     {
       "id": "card-3924b2b3f38ef3ba-1",
+      "entryType": "Word",
       "topics": [
         "Home"
       ],
@@ -169,6 +193,7 @@
     },
     {
       "id": "card-125a35f69dcf95af-1",
+      "entryType": "Expression",
       "topics": [
         "Choices"
       ],
@@ -184,6 +209,7 @@
     },
     {
       "id": "card-b36b0917693f34ff-1",
+      "entryType": "Word",
       "topics": [
         "Numbers"
       ],
@@ -199,6 +225,7 @@
     },
     {
       "id": "card-7363a3647031a518-1",
+      "entryType": "Word",
       "topics": [
         "Language"
       ],
@@ -214,6 +241,7 @@
     },
     {
       "id": "card-0530d969b4912d90-1",
+      "entryType": "Word",
       "topics": [
         "Comparison"
       ],
@@ -229,6 +257,7 @@
     },
     {
       "id": "card-0ff260b8164438c5-1",
+      "entryType": "Particle",
       "topics": [
         "Frequency"
       ],
@@ -244,6 +273,7 @@
     },
     {
       "id": "card-c0c68aacb16e00f7-1",
+      "entryType": "Particle",
       "topics": [
         "Quantity"
       ],
@@ -259,6 +289,7 @@
     },
     {
       "id": "card-6ca61486ac651c19-1",
+      "entryType": "Word",
       "topics": [
         "Quantity"
       ],
@@ -274,6 +305,7 @@
     },
     {
       "id": "card-386b7d78b5be8ffc-1",
+      "entryType": "Word",
       "topics": [
         "Language"
       ],
@@ -289,6 +321,7 @@
     },
     {
       "id": "card-823bba73ef7d50d6-1",
+      "entryType": "Word",
       "topics": [
         "Home"
       ],
@@ -304,6 +337,7 @@
     },
     {
       "id": "card-86d2ec819cdaf40c-1",
+      "entryType": "Word",
       "topics": [
         "Senses"
       ],
@@ -319,6 +353,7 @@
     },
     {
       "id": "card-3612243841145846-1",
+      "entryType": "Word",
       "topics": [
         "Life"
       ],
@@ -334,6 +369,7 @@
     },
     {
       "id": "card-081a46cb93a578a7-1",
+      "entryType": "Word",
       "topics": [
         "Completion"
       ],
@@ -349,6 +385,7 @@
     },
     {
       "id": "card-54341b8a513be974-1",
+      "entryType": "Word",
       "topics": [
         "Social"
       ],
@@ -364,6 +401,7 @@
     },
     {
       "id": "card-145de8891523d177-1",
+      "entryType": "Structure",
       "topics": [
         "Comparison"
       ],
@@ -379,6 +417,7 @@
     },
     {
       "id": "card-6954013278559fbb-1",
+      "entryType": "Word",
       "topics": [
         "Food"
       ],
@@ -394,6 +433,7 @@
     },
     {
       "id": "card-35080b512232c1c5-1",
+      "entryType": "Word",
       "topics": [
         "Work"
       ],
@@ -409,6 +449,7 @@
     },
     {
       "id": "card-537aadb7aa3932a9-1",
+      "entryType": "Structure",
       "topics": [
         "Comparison"
       ],
@@ -424,6 +465,7 @@
     },
     {
       "id": "card-f6dbcb543c80085a-1",
+      "entryType": "Structure",
       "topics": [
         "Comparison"
       ],
@@ -439,6 +481,7 @@
     },
     {
       "id": "card-4a31b33b82c5d3e8-1",
+      "entryType": "Word",
       "topics": [
         "Weather"
       ],
@@ -454,6 +497,7 @@
     },
     {
       "id": "card-1510776335d749f4-1",
+      "entryType": "Word",
       "topics": [
         "Food"
       ],
@@ -469,6 +513,7 @@
     },
     {
       "id": "card-d09c2756fbea58a9-1",
+      "entryType": "Word",
       "topics": [
         "Education"
       ],
@@ -484,6 +529,7 @@
     },
     {
       "id": "card-58b4d9c843b5b466-1",
+      "entryType": "Word",
       "topics": [
         "Geography"
       ],
@@ -499,6 +545,7 @@
     },
     {
       "id": "card-8718efe274e5bf6a-1",
+      "entryType": "Word",
       "topics": [
         "Places"
       ],
@@ -514,6 +561,7 @@
     },
     {
       "id": "card-0c915f2a454c30e0-1",
+      "entryType": "Word",
       "topics": [
         "Travel"
       ],
@@ -529,6 +577,7 @@
     },
     {
       "id": "card-9c1100425ddef1d7-1",
+      "entryType": "Word",
       "topics": [
         "Nature"
       ],
@@ -544,6 +593,7 @@
     },
     {
       "id": "card-384a07be81e4d1a2-1",
+      "entryType": "Word",
       "topics": [
         "Time"
       ],
@@ -559,6 +609,7 @@
     },
     {
       "id": "card-fe4c378ccc64ddd4-1",
+      "entryType": "Expression",
       "topics": [
         "Grammar"
       ],
@@ -574,6 +625,7 @@
     },
     {
       "id": "card-7770d1ad8743c0d0-1",
+      "entryType": "Word",
       "topics": [
         "Family"
       ],
@@ -589,6 +641,7 @@
     },
     {
       "id": "card-f27004939c063c38-1",
+      "entryType": "Word",
       "topics": [
         "Family"
       ],
@@ -604,6 +657,7 @@
     },
     {
       "id": "card-b84adb0348e998f3-1",
+      "entryType": "Word",
       "topics": [
         "Family"
       ],
@@ -619,6 +673,7 @@
     },
     {
       "id": "card-6656552a546ccb39-1",
+      "entryType": "Expression",
       "topics": [
         "Family"
       ],
@@ -634,6 +689,7 @@
     },
     {
       "id": "card-3cbd02bd918252cc-1",
+      "entryType": "Word",
       "topics": [
         "People"
       ],
@@ -649,6 +705,7 @@
     },
     {
       "id": "card-c45ec6c204ba5b84-1",
+      "entryType": "Word",
       "topics": [
         "People"
       ],
@@ -664,6 +721,7 @@
     },
     {
       "id": "card-df12971877dc52c0-1",
+      "entryType": "Expression",
       "topics": [
         "People"
       ],
@@ -679,6 +737,7 @@
     },
     {
       "id": "card-93ec4f896925344b-1",
+      "entryType": "Word",
       "topics": [
         "Family"
       ],
@@ -694,6 +753,7 @@
     },
     {
       "id": "card-b6564187e26176fe-1",
+      "entryType": "Word",
       "topics": [
         "Family"
       ],
@@ -709,6 +769,7 @@
     },
     {
       "id": "card-410ebf9b0e2e3eab-1",
+      "entryType": "Particle",
       "topics": [
         "Time"
       ],
@@ -724,6 +785,7 @@
     },
     {
       "id": "card-c98a85c21d183354-1",
+      "entryType": "Word",
       "topics": [
         "Feelings"
       ],
@@ -739,6 +801,7 @@
     },
     {
       "id": "card-a8535eced3b87f64-1",
+      "entryType": "Word",
       "topics": [
         "Frequency"
       ],
@@ -754,6 +817,7 @@
     },
     {
       "id": "card-66147cbc9fddd969-1",
+      "entryType": "Expression",
       "topics": [
         "Time"
       ],
@@ -769,6 +833,7 @@
     },
     {
       "id": "card-0c456fb9dcd9721b-1",
+      "entryType": "Word",
       "topics": [
         "Relationships"
       ],
@@ -784,6 +849,7 @@
     },
     {
       "id": "card-d02936c792b300ae-1",
+      "entryType": "Word",
       "topics": [
         "Rest"
       ],
@@ -799,6 +865,7 @@
     },
     {
       "id": "card-c3e1db2a37008423-1",
+      "entryType": "Word",
       "topics": [
         "Feelings"
       ],
@@ -814,6 +881,7 @@
     },
     {
       "id": "card-83d76a5f54c44277-1",
+      "entryType": "Word",
       "topics": [
         "Feelings"
       ],
@@ -829,6 +897,7 @@
     },
     {
       "id": "card-161559bffe9c500b-1",
+      "entryType": "Expression",
       "topics": [
         "Time"
       ],
@@ -844,6 +913,7 @@
     },
     {
       "id": "card-98814ce873a32c73-1",
+      "entryType": "Word",
       "topics": [
         "Rest"
       ],
@@ -859,6 +929,7 @@
     },
     {
       "id": "card-647c6f4995f787d0-1",
+      "entryType": "Word",
       "topics": [
         "Planning"
       ],
@@ -874,6 +945,7 @@
     },
     {
       "id": "card-595235d2bf1607b0-1",
+      "entryType": "Word",
       "topics": [
         "Description"
       ],
@@ -889,6 +961,7 @@
     },
     {
       "id": "card-440b7aba948360bd-1",
+      "entryType": "Word",
       "topics": [
         "Interests"
       ],
@@ -904,6 +977,7 @@
     },
     {
       "id": "card-50e75b31bb59c7df-1",
+      "entryType": "Word",
       "topics": [
         "Exercise"
       ],
@@ -919,6 +993,7 @@
     },
     {
       "id": "card-6f8801d3e4a1f60c-1",
+      "entryType": "Word",
       "topics": [
         "Exercise"
       ],
@@ -934,6 +1009,7 @@
     },
     {
       "id": "card-775bb2d29300e625-1",
+      "entryType": "Expression",
       "topics": [
         "Exercise"
       ],
@@ -949,6 +1025,7 @@
     },
     {
       "id": "card-dc3ac5391502ad4a-1",
+      "entryType": "Expression",
       "topics": [
         "Exercise"
       ],
@@ -964,6 +1041,7 @@
     },
     {
       "id": "card-e7aa35eb62c9b91d-1",
+      "entryType": "Word",
       "topics": [
         "Movement"
       ],
@@ -979,6 +1057,7 @@
     },
     {
       "id": "card-cebd8e29e7741c62-1",
+      "entryType": "Structure",
       "topics": [
         "Grammar"
       ],
@@ -994,6 +1073,7 @@
     },
     {
       "id": "card-d7a8278520833597-1",
+      "entryType": "Word",
       "topics": [
         "Body"
       ],
@@ -1009,6 +1089,7 @@
     },
     {
       "id": "card-437dab74154fb606-1",
+      "entryType": "Word",
       "topics": [
         "Education"
       ],
@@ -1024,6 +1105,7 @@
     },
     {
       "id": "card-dc3ac5391502ad4a-2",
+      "entryType": "Expression",
       "topics": [
         "Exercise"
       ],
@@ -1039,6 +1121,7 @@
     },
     {
       "id": "card-e23753da2c4f9715-1",
+      "entryType": "Expression",
       "topics": [
         "Conversation"
       ],
@@ -1054,6 +1137,7 @@
     },
     {
       "id": "card-a8e573031bc06428-1",
+      "entryType": "Expression",
       "topics": [
         "Quantity"
       ],
@@ -1069,6 +1153,7 @@
     },
     {
       "id": "card-2e87ae4771ae8c74-1",
+      "entryType": "Expression",
       "topics": [
         "Quantity"
       ],
@@ -1084,6 +1169,7 @@
     },
     {
       "id": "card-fd51c84201c7d6bd-1",
+      "entryType": "Word",
       "topics": [
         "Completion"
       ],
@@ -1099,6 +1185,7 @@
     },
     {
       "id": "card-93de778f4fe21c2c-1",
+      "entryType": "Word",
       "topics": [
         "Completion"
       ],
@@ -1114,6 +1201,7 @@
     },
     {
       "id": "card-e4a6bd1e6424c936-1",
+      "entryType": "Word",
       "topics": [
         "Completion"
       ],
@@ -1129,6 +1217,7 @@
     },
     {
       "id": "card-3bb6519fd0bd6e1a-1",
+      "entryType": "Expression",
       "topics": [
         "Choices"
       ],
@@ -1144,6 +1233,7 @@
     },
     {
       "id": "card-22dedfe03fd957b5-1",
+      "entryType": "Expression",
       "topics": [
         "Completion"
       ],
@@ -1159,6 +1249,7 @@
     },
     {
       "id": "card-7fe094dc41f2384e-1",
+      "entryType": "Expression",
       "topics": [
         "Completion"
       ],
@@ -1174,6 +1265,7 @@
     },
     {
       "id": "card-7ebbf2f71896fe20-1",
+      "entryType": "Expression",
       "topics": [
         "Education"
       ],
@@ -1189,6 +1281,7 @@
     },
     {
       "id": "card-b2d55f5ec74996ca-1",
+      "entryType": "Word",
       "topics": [
         "Education"
       ],
@@ -1204,6 +1297,7 @@
     },
     {
       "id": "card-7ebbf2f71896fe20-2",
+      "entryType": "Expression",
       "topics": [
         "Education"
       ],
@@ -1219,6 +1313,7 @@
     },
     {
       "id": "card-52044952aef4fdf3-1",
+      "entryType": "Word",
       "topics": [
         "Time"
       ],
@@ -1234,6 +1329,7 @@
     },
     {
       "id": "card-a39716b692fe8275-1",
+      "entryType": "Word",
       "topics": [
         "Completion"
       ],
@@ -1249,6 +1345,7 @@
     },
     {
       "id": "card-87d734544b59dc98-1",
+      "entryType": "Word",
       "topics": [
         "Questions"
       ],
@@ -1264,6 +1361,7 @@
     },
     {
       "id": "card-cd4299db8ce121ff-1",
+      "entryType": "Particle",
       "topics": [
         "Independence"
       ],
@@ -1279,6 +1377,7 @@
     },
     {
       "id": "card-cd4299db8ce121ff-2",
+      "entryType": "Particle",
       "topics": [
         "Independence"
       ],
@@ -1294,6 +1393,7 @@
     },
     {
       "id": "card-a729efbcad74e2c4-1",
+      "entryType": "Particle",
       "topics": [
         "Independence"
       ],
@@ -1309,6 +1409,7 @@
     },
     {
       "id": "card-0b08b5f509b6cdff-1",
+      "entryType": "Word",
       "topics": [
         "Description"
       ],
@@ -1324,6 +1425,7 @@
     },
     {
       "id": "card-dcdab14008ea7019-1",
+      "entryType": "Word",
       "topics": [
         "Feelings"
       ],
@@ -1339,6 +1441,7 @@
     },
     {
       "id": "card-712eda1769a13ec4-1",
+      "entryType": "Word",
       "topics": [
         "Education"
       ],
@@ -1354,6 +1457,7 @@
     },
     {
       "id": "card-0cb6143072199069-1",
+      "entryType": "Word",
       "topics": [
         "Education"
       ],
@@ -1369,6 +1473,7 @@
     },
     {
       "id": "card-34d233bc11609339-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1384,6 +1489,7 @@
     },
     {
       "id": "card-c8ea491cc13952a4-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1399,6 +1505,7 @@
     },
     {
       "id": "card-e90cc2b3d2c49d3f-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1414,6 +1521,7 @@
     },
     {
       "id": "card-aba86b7763b8446c-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1429,6 +1537,7 @@
     },
     {
       "id": "card-265d8f3c2f2985ea-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1444,6 +1553,7 @@
     },
     {
       "id": "card-2a421b7a857094ea-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1459,6 +1569,7 @@
     },
     {
       "id": "card-a08f208d7529d218-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1474,6 +1585,7 @@
     },
     {
       "id": "card-ce31a01f3c545dc1-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1489,6 +1601,7 @@
     },
     {
       "id": "card-cb60f7743571ae20-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1504,6 +1617,7 @@
     },
     {
       "id": "card-75fc137ed7f701e8-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1519,6 +1633,7 @@
     },
     {
       "id": "card-1f60239ababab2a8-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1534,6 +1649,7 @@
     },
     {
       "id": "card-ff00f14c31f0e1a4-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1549,6 +1665,7 @@
     },
     {
       "id": "card-c5458bf2a431109d-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1564,6 +1681,7 @@
     },
     {
       "id": "card-c2ffaa2fe3f4ba3a-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1579,6 +1697,7 @@
     },
     {
       "id": "card-a2570b5b641d509b-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1594,6 +1713,7 @@
     },
     {
       "id": "card-395ca9993ccee8e1-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1609,6 +1729,7 @@
     },
     {
       "id": "card-14cc91a4056df591-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1624,6 +1745,7 @@
     },
     {
       "id": "card-a0072df4b5de526c-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1639,6 +1761,7 @@
     },
     {
       "id": "card-c2ee3a4d80693020-1",
+      "entryType": "Word",
       "topics": [
         "Muay Thai"
       ],
@@ -1654,6 +1777,7 @@
     },
     {
       "id": "card-27bbf523ec1314ad-1",
+      "entryType": "Expression",
       "topics": [
         "Muay Thai"
       ],
@@ -1666,6 +1790,988 @@
       "exampleLiteral": "[do not retreat] let turn out side",
       "dateAdded": "2026-08-11",
       "position": 107
+    },
+    {
+      "id": "card-e5dc14a94e90936a-1",
+      "entryType": "Word",
+      "topics": [
+        "Safety",
+        "Daily life"
+      ],
+      "thai": "อันตราย",
+      "phonetic": "an-dtà-raai",
+      "english": "dangerous",
+      "exampleThai": "ตรงนี้[อันตราย]ไหม",
+      "examplePhonetic": "dtrong-níi [an-dtà-raai] mái",
+      "exampleEnglish": "Is it [dangerous] here?",
+      "exampleLiteral": "here [dangerous] question",
+      "dateAdded": "2026-08-11",
+      "position": 108
+    },
+    {
+      "id": "card-d8b6c2ef0995a29a-1",
+      "entryType": "Word",
+      "topics": [
+        "Ideas",
+        "Language structure"
+      ],
+      "thai": "ความคิด",
+      "phonetic": "kwaam-kít",
+      "english": "idea / thought",
+      "exampleThai": "นี่เป็น[ความคิด]ที่ดีมาก",
+      "examplePhonetic": "nîi bpen [kwaam-kít] tîi dii mâak",
+      "exampleEnglish": "This is a very good [idea].",
+      "exampleLiteral": "this is [thought] that good very",
+      "dateAdded": "2026-08-11",
+      "position": 109
+    },
+    {
+      "id": "card-048b6234d8792517-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Sequence"
+      ],
+      "thai": "ต่อไป",
+      "phonetic": "dtɔ̀ɔ-bpai",
+      "english": "next / from now on",
+      "exampleThai": "[ต่อไป]ผมจะทำแอปคำศัพท์",
+      "examplePhonetic": "[dtɔ̀ɔ-bpai] pǒm jà tam ɛ́p kam-sàp",
+      "exampleEnglish": "[Next], I will make a vocabulary app.",
+      "exampleLiteral": "[from now on] I will make app vocabulary",
+      "dateAdded": "2026-08-11",
+      "position": 110
+    },
+    {
+      "id": "card-adf9ad7f7c446034-1",
+      "entryType": "Word",
+      "topics": [
+        "Technology"
+      ],
+      "thai": "แอป",
+      "phonetic": "ɛ́p",
+      "english": "app",
+      "exampleThai": "[แอป]นี้ใช้ง่ายมาก",
+      "examplePhonetic": "[ɛ́p] níi chái ngâai mâak",
+      "exampleEnglish": "This [app] is very easy to use.",
+      "exampleLiteral": "[app] this use easy very",
+      "dateAdded": "2026-08-11",
+      "position": 111
+    },
+    {
+      "id": "card-4a8ad63fcefb45fc-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Nominalization"
+      ],
+      "thai": "ความ",
+      "phonetic": "kwaam",
+      "english": "forms an abstract noun",
+      "exampleThai": "[ความ]สุขสำคัญมาก",
+      "examplePhonetic": "[kwaam]-sùk sǎm-kan mâak",
+      "exampleEnglish": "[Happiness] is very important.",
+      "exampleLiteral": "[abstract quality of] happiness important very",
+      "dateAdded": "2026-08-11",
+      "position": 112
+    },
+    {
+      "id": "card-327b1e727e3c66dc-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Nominalization"
+      ],
+      "thai": "การ",
+      "phonetic": "gaan",
+      "english": "forms an action noun",
+      "exampleThai": "[การ]เรียนภาษาไทยสนุก",
+      "examplePhonetic": "[gaan]-riian paa-sǎa tai sà-nùk",
+      "exampleEnglish": "[Learning] Thai is fun.",
+      "exampleLiteral": "[the act of] learning Thai fun",
+      "dateAdded": "2026-08-11",
+      "position": 113
+    },
+    {
+      "id": "card-8917da90cd02dc53-1",
+      "entryType": "Word",
+      "topics": [
+        "Knowledge",
+        "Language structure"
+      ],
+      "thai": "ความรู้",
+      "phonetic": "kwaam-rúu",
+      "english": "knowledge",
+      "exampleThai": "[ความรู้]มาจากประสบการณ์",
+      "examplePhonetic": "[kwaam-rúu] maa jàak bprà-sòp-gaan",
+      "exampleEnglish": "[Knowledge] comes from experience.",
+      "exampleLiteral": "[knowledge] comes from experience",
+      "dateAdded": "2026-08-11",
+      "position": 114
+    },
+    {
+      "id": "card-c039a66a52d799c3-1",
+      "entryType": "Word",
+      "topics": [
+        "Feelings",
+        "Language structure"
+      ],
+      "thai": "ความรู้สึก",
+      "phonetic": "kwaam-rúu-sʉ̀k",
+      "english": "feeling",
+      "exampleThai": "บอก[ความรู้สึก]ของคุณได้เลย",
+      "examplePhonetic": "bɔ̀ɔk [kwaam-rúu-sʉ̀k] kɔ̌ɔng kun dâai looei",
+      "exampleEnglish": "You can tell me your [feelings].",
+      "exampleLiteral": "tell [feeling] of you can freely",
+      "dateAdded": "2026-08-11",
+      "position": 115
+    },
+    {
+      "id": "card-79b094d4b575460c-1",
+      "entryType": "Word",
+      "topics": [
+        "Feelings",
+        "Language structure"
+      ],
+      "thai": "ความรัก",
+      "phonetic": "kwaam-rák",
+      "english": "love",
+      "exampleThai": "[ความรัก]ทำให้คนมีความสุข",
+      "examplePhonetic": "[kwaam-rák] tam-hâi kon mii kwaam-sùk",
+      "exampleEnglish": "[Love] makes people happy.",
+      "exampleLiteral": "[love] causes people have happiness",
+      "dateAdded": "2026-08-11",
+      "position": 116
+    },
+    {
+      "id": "card-7e63dae5e0e8d686-1",
+      "entryType": "Word",
+      "topics": [
+        "Values",
+        "Language structure"
+      ],
+      "thai": "ความดี",
+      "phonetic": "kwaam-dii",
+      "english": "goodness / virtue",
+      "exampleThai": "ทุกคนเห็น[ความดี]ของเขา",
+      "examplePhonetic": "túk-kon hěn [kwaam-dii] kɔ̌ɔng kǎo",
+      "exampleEnglish": "Everyone sees his [goodness].",
+      "exampleLiteral": "everyone sees [goodness] of him",
+      "dateAdded": "2026-08-11",
+      "position": 117
+    },
+    {
+      "id": "card-3fa022657723579f-1",
+      "entryType": "Word",
+      "topics": [
+        "Weather",
+        "Language structure"
+      ],
+      "thai": "ความร้อน",
+      "phonetic": "kwaam-rɔ́ɔn",
+      "english": "heat",
+      "exampleThai": "[ความร้อน]วันนี้สูงมาก",
+      "examplePhonetic": "[kwaam-rɔ́ɔn] wan-níi sǔung mâak",
+      "exampleEnglish": "The [heat] is intense today.",
+      "exampleLiteral": "[heat] today high very",
+      "dateAdded": "2026-08-11",
+      "position": 118
+    },
+    {
+      "id": "card-829ce7fdf723ae25-1",
+      "entryType": "Word",
+      "topics": [
+        "Feelings",
+        "Language structure"
+      ],
+      "thai": "ความสุข",
+      "phonetic": "kwaam-sùk",
+      "english": "happiness",
+      "exampleThai": "ครอบครัวทำให้ผมมี[ความสุข]",
+      "examplePhonetic": "krɔ̂ɔp-krua tam-hâi pǒm mii [kwaam-sùk]",
+      "exampleEnglish": "My family makes me [happy].",
+      "exampleLiteral": "family causes me have [happiness]",
+      "dateAdded": "2026-08-11",
+      "position": 119
+    },
+    {
+      "id": "card-7d8285e0462efc8d-1",
+      "entryType": "Word",
+      "topics": [
+        "Food",
+        "Language structure"
+      ],
+      "thai": "การกิน",
+      "phonetic": "gaan-gin",
+      "english": "eating",
+      "exampleThai": "[การกิน]ผักดีต่อร่างกาย",
+      "examplePhonetic": "[gaan-gin] pàk dii dtɔ̀ɔ râang-gaai",
+      "exampleEnglish": "[Eating] vegetables is good for the body.",
+      "exampleLiteral": "[the act of eating] vegetables good toward body",
+      "dateAdded": "2026-08-11",
+      "position": 120
+    },
+    {
+      "id": "card-a056dd8a4adc648e-1",
+      "entryType": "Word",
+      "topics": [
+        "Travel",
+        "Language structure"
+      ],
+      "thai": "การไป",
+      "phonetic": "gaan-bpai",
+      "english": "going",
+      "exampleThai": "[การไป]เชียงใหม่ใช้เวลานาน",
+      "examplePhonetic": "[gaan-bpai] chiiang-mài chái wee-laa naan",
+      "exampleEnglish": "[Going] to Chiang Mai takes a long time.",
+      "exampleLiteral": "[the act of going] Chiang Mai uses time long",
+      "dateAdded": "2026-08-11",
+      "position": 121
+    },
+    {
+      "id": "card-bd83afd6b2e0a18c-1",
+      "entryType": "Word",
+      "topics": [
+        "Actions",
+        "Language structure"
+      ],
+      "thai": "การทำ",
+      "phonetic": "gaan-tam",
+      "english": "doing / making",
+      "exampleThai": "[การทำ]อาหารต้องใช้เวลา",
+      "examplePhonetic": "[gaan-tam] aa-hǎan dtɔ̂ng chái wee-laa",
+      "exampleEnglish": "[Cooking] takes time.",
+      "exampleLiteral": "[the act of making] food must use time",
+      "dateAdded": "2026-08-11",
+      "position": 122
+    },
+    {
+      "id": "card-89afeece2f39b0eb-1",
+      "entryType": "Word",
+      "topics": [
+        "Leisure",
+        "Language structure"
+      ],
+      "thai": "การดู",
+      "phonetic": "gaan-duu",
+      "english": "watching",
+      "exampleThai": "[การดู]หนังช่วยให้ผ่อนคลาย",
+      "examplePhonetic": "[gaan-duu] nǎng chûai hâi pɔ̀ɔn-klaai",
+      "exampleEnglish": "[Watching] films helps you relax.",
+      "exampleLiteral": "[the act of watching] film helps allow relax",
+      "dateAdded": "2026-08-11",
+      "position": 123
+    },
+    {
+      "id": "card-47fc075fc478798c-1",
+      "entryType": "Word",
+      "topics": [
+        "Movement",
+        "Language structure"
+      ],
+      "thai": "การเดิน",
+      "phonetic": "gaan-dooen",
+      "english": "walking",
+      "exampleThai": "[การเดิน]ทุกวันดีต่อสุขภาพ",
+      "examplePhonetic": "[gaan-dooen] túk-wan dii dtɔ̀ɔ sùk-kà-pâap",
+      "exampleEnglish": "[Walking] every day is good for your health.",
+      "exampleLiteral": "[the act of walking] every day good toward health",
+      "dateAdded": "2026-08-11",
+      "position": 124
+    },
+    {
+      "id": "card-dead4013305463bd-1",
+      "entryType": "Word",
+      "topics": [
+        "Education",
+        "Language structure"
+      ],
+      "thai": "การเรียน",
+      "phonetic": "gaan-riian",
+      "english": "studying / learning",
+      "exampleThai": "[การเรียน]ภาษาไทยต้องฝึกทุกวัน",
+      "examplePhonetic": "[gaan-riian] paa-sǎa tai dtɔ̂ng fʉ̀k túk-wan",
+      "exampleEnglish": "[Learning] Thai requires daily practice.",
+      "exampleLiteral": "[the act of learning] Thai must practise every day",
+      "dateAdded": "2026-08-11",
+      "position": 125
+    },
+    {
+      "id": "card-ca95e8b4f9762308-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Causatives"
+      ],
+      "thai": "ทำให้",
+      "phonetic": "tam-hâi",
+      "english": "cause / make",
+      "exampleThai": "ความรัก[ทำให้]คนมีความสุข",
+      "examplePhonetic": "kwaam-rák [tam-hâi] kon mii kwaam-sùk",
+      "exampleEnglish": "Love [makes] people happy.",
+      "exampleLiteral": "love [causes] people have happiness",
+      "dateAdded": "2026-08-11",
+      "position": 126
+    },
+    {
+      "id": "card-1ed650dddb632939-1",
+      "entryType": "Word",
+      "topics": [
+        "Transport",
+        "Technology"
+      ],
+      "thai": "รถยนต์ไฟฟ้า",
+      "phonetic": "rót-yon fai-fáa",
+      "english": "electric car",
+      "exampleThai": "เทสลาเป็น[รถยนต์ไฟฟ้า]",
+      "examplePhonetic": "têet-sâ-laa bpen [rót-yon fai-fáa]",
+      "exampleEnglish": "A Tesla is an [electric car].",
+      "exampleLiteral": "Tesla is [car electricity]",
+      "dateAdded": "2026-08-11",
+      "position": 127
+    },
+    {
+      "id": "card-3fbc5217ba23e7ee-1",
+      "entryType": "Word",
+      "topics": [
+        "Transport"
+      ],
+      "thai": "รถยนต์",
+      "phonetic": "rót-yon",
+      "english": "car",
+      "exampleThai": "เทสลาเป็น[รถยนต์]",
+      "examplePhonetic": "têet-sâ-laa bpen [rót-yon]",
+      "exampleEnglish": "A Tesla is a [car].",
+      "exampleLiteral": "Tesla is [car]",
+      "dateAdded": "2026-08-11",
+      "position": 128
+    },
+    {
+      "id": "card-450e45176c3a5490-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Calendar"
+      ],
+      "thai": "วัน",
+      "phonetic": "wan",
+      "english": "day",
+      "exampleThai": "วันนี้เป็น[วัน]อะไร",
+      "examplePhonetic": "wan-níi bpen [wan] à-rai",
+      "exampleEnglish": "What [day] is it today?",
+      "exampleLiteral": "today is [day] what",
+      "dateAdded": "2026-08-11",
+      "position": 129
+    },
+    {
+      "id": "card-e7be786cf4c52ed4-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันจันทร์",
+      "phonetic": "wan-jan",
+      "english": "Monday",
+      "exampleThai": "พรุ่งนี้เป็น[วันจันทร์]",
+      "examplePhonetic": "prûng-níi bpen [wan-jan]",
+      "exampleEnglish": "Tomorrow is [Monday].",
+      "exampleLiteral": "tomorrow is [Monday]",
+      "dateAdded": "2026-08-11",
+      "position": 130
+    },
+    {
+      "id": "card-1a193c4931f1f42c-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันอังคาร",
+      "phonetic": "wan-ang-kaan",
+      "english": "Tuesday",
+      "exampleThai": "เราเรียนภาษาไทย[วันอังคาร]",
+      "examplePhonetic": "rao riian paa-sǎa tai [wan-ang-kaan]",
+      "exampleEnglish": "We study Thai on [Tuesday].",
+      "exampleLiteral": "we study Thai [Tuesday]",
+      "dateAdded": "2026-08-11",
+      "position": 131
+    },
+    {
+      "id": "card-b9e14a4450b70e69-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันพุธ",
+      "phonetic": "wan-pút",
+      "english": "Wednesday",
+      "exampleThai": "ร้านปิด[วันพุธ]",
+      "examplePhonetic": "ráan bpìt [wan-pút]",
+      "exampleEnglish": "The shop is closed on [Wednesday].",
+      "exampleLiteral": "shop closes [Wednesday]",
+      "dateAdded": "2026-08-11",
+      "position": 132
+    },
+    {
+      "id": "card-2d74f9888a43d988-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันพฤหัสบดี",
+      "phonetic": "wan-pá-rʉ́-hàt-sà-bɔɔ-dii",
+      "english": "Thursday",
+      "exampleThai": "เจอกัน[วันพฤหัสบดี]",
+      "examplePhonetic": "jooe gan [wan-pá-rʉ́-hàt-sà-bɔɔ-dii]",
+      "exampleEnglish": "See you on [Thursday].",
+      "exampleLiteral": "meet together [Thursday]",
+      "dateAdded": "2026-08-11",
+      "position": 133
+    },
+    {
+      "id": "card-980b5a1fd98b2511-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันศุกร์",
+      "phonetic": "wan-sùk",
+      "english": "Friday",
+      "exampleThai": "ผมทำงานถึง[วันศุกร์]",
+      "examplePhonetic": "pǒm tam-ngaan tʉ̌ng [wan-sùk]",
+      "exampleEnglish": "I work until [Friday].",
+      "exampleLiteral": "I work until [Friday]",
+      "dateAdded": "2026-08-11",
+      "position": 134
+    },
+    {
+      "id": "card-bde4ca44a19a6604-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันเสาร์",
+      "phonetic": "wan-sǎo",
+      "english": "Saturday",
+      "exampleThai": "เราไปทะเล[วันเสาร์]",
+      "examplePhonetic": "rao bpai tá-lee [wan-sǎo]",
+      "exampleEnglish": "We are going to the sea on [Saturday].",
+      "exampleLiteral": "we go sea [Saturday]",
+      "dateAdded": "2026-08-11",
+      "position": 135
+    },
+    {
+      "id": "card-3f9bf4e0a981cd9c-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Weekdays"
+      ],
+      "thai": "วันอาทิตย์",
+      "phonetic": "wan-aa-tít",
+      "english": "Sunday",
+      "exampleThai": "ผมพักผ่อน[วันอาทิตย์]",
+      "examplePhonetic": "pǒm pák-pɔ̀ɔn [wan-aa-tít]",
+      "exampleEnglish": "I relax on [Sunday].",
+      "exampleLiteral": "I relax [Sunday]",
+      "dateAdded": "2026-08-11",
+      "position": 136
+    },
+    {
+      "id": "card-956dd5888905d15c-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Calendar"
+      ],
+      "thai": "อาทิตย์",
+      "phonetic": "aa-tít",
+      "english": "week",
+      "exampleThai": "หนึ่ง[อาทิตย์]มีเจ็ดวัน",
+      "examplePhonetic": "nʉ̀ng [aa-tít] mii jèt wan",
+      "exampleEnglish": "One [week] has seven days.",
+      "exampleLiteral": "one [week] has seven days",
+      "dateAdded": "2026-08-11",
+      "position": 137
+    },
+    {
+      "id": "card-865e877d08fc5cab-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Calendar"
+      ],
+      "thai": "เดือน",
+      "phonetic": "dʉʉan",
+      "english": "month",
+      "exampleThai": "หนึ่งปีมีสิบสอง[เดือน]",
+      "examplePhonetic": "nʉ̀ng bpii mii sìp-sɔ̌ɔng [dʉʉan]",
+      "exampleEnglish": "One year has twelve [months].",
+      "exampleLiteral": "one year has twelve [months]",
+      "dateAdded": "2026-08-11",
+      "position": 138
+    },
+    {
+      "id": "card-47f1a988929ee23f-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "มกราคม",
+      "phonetic": "mók-gà-raa-kom",
+      "english": "January",
+      "exampleThai": "ผมเกิดเดือน[มกราคม]",
+      "examplePhonetic": "pǒm gòoet dʉʉan [mók-gà-raa-kom]",
+      "exampleEnglish": "I was born in [January].",
+      "exampleLiteral": "I born month [January]",
+      "dateAdded": "2026-08-11",
+      "position": 139
+    },
+    {
+      "id": "card-4c1ec9ea4ec678e5-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "กุมภาพันธ์",
+      "phonetic": "gum-paa-pan",
+      "english": "February",
+      "exampleThai": "เดือน[กุมภาพันธ์]มีน้อยกว่าสามสิบวัน",
+      "examplePhonetic": "dʉʉan [gum-paa-pan] mii nɔ́ɔi gwàa sǎam-sìp wan",
+      "exampleEnglish": "[February] has fewer than thirty days.",
+      "exampleLiteral": "month [February] has fewer than thirty days",
+      "dateAdded": "2026-08-11",
+      "position": 140
+    },
+    {
+      "id": "card-faff63301937b2f8-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "มีนาคม",
+      "phonetic": "mii-naa-kom",
+      "english": "March",
+      "exampleThai": "อากาศเริ่มร้อนในเดือน[มีนาคม]",
+      "examplePhonetic": "aa-gàat rôoem rɔ́ɔn nai dʉʉan [mii-naa-kom]",
+      "exampleEnglish": "The weather starts getting hot in [March].",
+      "exampleLiteral": "weather starts hot in month [March]",
+      "dateAdded": "2026-08-11",
+      "position": 141
+    },
+    {
+      "id": "card-e4414c6ba9cfe754-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "เมษายน",
+      "phonetic": "mee-sǎa-yon",
+      "english": "April",
+      "exampleThai": "สงกรานต์อยู่ในเดือน[เมษายน]",
+      "examplePhonetic": "sǒng-graan yùu nai dʉʉan [mee-sǎa-yon]",
+      "exampleEnglish": "Songkran is in [April].",
+      "exampleLiteral": "Songkran is in month [April]",
+      "dateAdded": "2026-08-11",
+      "position": 142
+    },
+    {
+      "id": "card-1fd9044b1af541c8-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "พฤษภาคม",
+      "phonetic": "prʉ́t-sà-paa-kom",
+      "english": "May",
+      "exampleThai": "ฝนเริ่มตกในเดือน[พฤษภาคม]",
+      "examplePhonetic": "fǒn rôoem dtòk nai dʉʉan [prʉ́t-sà-paa-kom]",
+      "exampleEnglish": "Rain starts falling in [May].",
+      "exampleLiteral": "rain starts fall in month [May]",
+      "dateAdded": "2026-08-11",
+      "position": 143
+    },
+    {
+      "id": "card-978f19897e3b2950-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "มิถุนายน",
+      "phonetic": "mí-tù-naa-yon",
+      "english": "June",
+      "exampleThai": "โรงเรียนเปิดเดือน[มิถุนายน]",
+      "examplePhonetic": "roong-riian bpòoet dʉʉan [mí-tù-naa-yon]",
+      "exampleEnglish": "School opens in [June].",
+      "exampleLiteral": "school opens month [June]",
+      "dateAdded": "2026-08-11",
+      "position": 144
+    },
+    {
+      "id": "card-b652b7ce09c34769-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "กรกฎาคม",
+      "phonetic": "gà-rá-gà-daa-kom",
+      "english": "July",
+      "exampleThai": "เดือน[กรกฎาคม]ฝนตกบ่อย",
+      "examplePhonetic": "dʉʉan [gà-rá-gà-daa-kom] fǒn dtòk bɔ̀i",
+      "exampleEnglish": "It rains often in [July].",
+      "exampleLiteral": "month [July] rain falls often",
+      "dateAdded": "2026-08-11",
+      "position": 145
+    },
+    {
+      "id": "card-d907455e6657a1df-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "สิงหาคม",
+      "phonetic": "sǐng-hǎa-kom",
+      "english": "August",
+      "exampleThai": "วันนี้วันที่สิบเอ็ด[สิงหาคม]",
+      "examplePhonetic": "wan-níi wan-tîi sìp-èt [sǐng-hǎa-kom]",
+      "exampleEnglish": "Today is 11 [August].",
+      "exampleLiteral": "today date eleven [August]",
+      "dateAdded": "2026-08-11",
+      "position": 146
+    },
+    {
+      "id": "card-ef6c4dfa2f9737f3-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "กันยายน",
+      "phonetic": "gan-yaa-yon",
+      "english": "September",
+      "exampleThai": "ผมจะไปกรุงเทพในเดือน[กันยายน]",
+      "examplePhonetic": "pǒm jà bpai grung-têep nai dʉʉan [gan-yaa-yon]",
+      "exampleEnglish": "I will go to Bangkok in [September].",
+      "exampleLiteral": "I will go Bangkok in month [September]",
+      "dateAdded": "2026-08-11",
+      "position": 147
+    },
+    {
+      "id": "card-da9827cbf07d7ad8-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "ตุลาคม",
+      "phonetic": "dtù-laa-kom",
+      "english": "October",
+      "exampleThai": "อากาศดีขึ้นในเดือน[ตุลาคม]",
+      "examplePhonetic": "aa-gàat dii kʉ̂n nai dʉʉan [dtù-laa-kom]",
+      "exampleEnglish": "The weather improves in [October].",
+      "exampleLiteral": "weather gets better in month [October]",
+      "dateAdded": "2026-08-11",
+      "position": 148
+    },
+    {
+      "id": "card-102fdbb8a2472b10-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "พฤศจิกายน",
+      "phonetic": "prʉ́t-sà-jì-gaa-yon",
+      "english": "November",
+      "exampleThai": "ลอยกระทงมักอยู่ในเดือน[พฤศจิกายน]",
+      "examplePhonetic": "lɔɔi-grà-tong mák yùu nai dʉʉan [prʉ́t-sà-jì-gaa-yon]",
+      "exampleEnglish": "Loy Krathong is usually in [November].",
+      "exampleLiteral": "Loy Krathong usually is in month [November]",
+      "dateAdded": "2026-08-11",
+      "position": 149
+    },
+    {
+      "id": "card-c489430f36844ce1-1",
+      "entryType": "Word",
+      "topics": [
+        "Time",
+        "Months"
+      ],
+      "thai": "ธันวาคม",
+      "phonetic": "tan-waa-kom",
+      "english": "December",
+      "exampleThai": "ปลายเดือน[ธันวาคม]อากาศเย็น",
+      "examplePhonetic": "bplaai dʉʉan [tan-waa-kom] aa-gàat yen",
+      "exampleEnglish": "The weather is cool in late [December].",
+      "exampleLiteral": "end month [December] weather cool",
+      "dateAdded": "2026-08-11",
+      "position": 150
+    },
+    {
+      "id": "card-fdede11d56f84df1-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Calendar"
+      ],
+      "thai": "คม",
+      "phonetic": "kom",
+      "english": "month ending for 31-day months",
+      "exampleThai": "มกราคมลงท้ายด้วย[คม]",
+      "examplePhonetic": "mók-gà-raa-kom long-táai dûai [kom]",
+      "exampleEnglish": "Makarakhom ends with [khom].",
+      "exampleLiteral": "January ends with [31-day-month ending]",
+      "dateAdded": "2026-08-11",
+      "position": 151
+    },
+    {
+      "id": "card-001ac75f864b7baf-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Calendar"
+      ],
+      "thai": "พันธ์",
+      "phonetic": "pan",
+      "english": "month element in February",
+      "exampleThai": "กุมภาพันธ์มีคำว่า[พันธ์]",
+      "examplePhonetic": "gum-paa-pan mii kam wâa [pan]",
+      "exampleEnglish": "Kumphaphan contains [phan].",
+      "exampleLiteral": "February has word [month element]",
+      "dateAdded": "2026-08-11",
+      "position": 152
+    },
+    {
+      "id": "card-2a35206d516614f7-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Calendar"
+      ],
+      "thai": "ยน",
+      "phonetic": "yon",
+      "english": "month ending for 30-day months",
+      "exampleThai": "เมษายนลงท้ายด้วย[ยน]",
+      "examplePhonetic": "mee-sǎa-yon long-táai dûai [yon]",
+      "exampleEnglish": "Mesayon ends with [yon].",
+      "exampleLiteral": "April ends with [30-day-month ending]",
+      "dateAdded": "2026-08-11",
+      "position": 153
+    },
+    {
+      "id": "card-9655f2f5292323ba-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Dates"
+      ],
+      "thai": "วันที่",
+      "phonetic": "wan-tîi",
+      "english": "date / day number",
+      "exampleThai": "วันนี้[วันที่]สิบเอ็ดสิงหาคม",
+      "examplePhonetic": "wan-níi [wan-tîi] sìp-èt sǐng-hǎa-kom",
+      "exampleEnglish": "Today is the [eleventh] of August.",
+      "exampleLiteral": "today [date number] eleven August",
+      "dateAdded": "2026-08-11",
+      "position": 154
+    },
+    {
+      "id": "card-fa55e66ac9936030-1",
+      "entryType": "Word",
+      "topics": [
+        "Weather"
+      ],
+      "thai": "อากาศ",
+      "phonetic": "aa-gàat",
+      "english": "weather",
+      "exampleThai": "ตอนนี้[อากาศ]เป็นอย่างไร",
+      "examplePhonetic": "dtɔɔn-níi [aa-gàat] bpen yàang-rai",
+      "exampleEnglish": "How is the [weather] now?",
+      "exampleLiteral": "now [weather] is how",
+      "dateAdded": "2026-08-11",
+      "position": 155
+    },
+    {
+      "id": "card-1555ba2df634176b-1",
+      "entryType": "Expression",
+      "topics": [
+        "Weather"
+      ],
+      "thai": "ฝนตก",
+      "phonetic": "fǒn-dtòk",
+      "english": "rain / raining",
+      "exampleThai": "วันนี้[ฝนตก]หนักมาก",
+      "examplePhonetic": "wan-níi [fǒn-dtòk] nàk mâak",
+      "exampleEnglish": "It is [raining] heavily today.",
+      "exampleLiteral": "today [rain falls] heavily very",
+      "dateAdded": "2026-08-11",
+      "position": 156
+    },
+    {
+      "id": "card-b483f413055f9fd6-1",
+      "entryType": "Word",
+      "topics": [
+        "Weather",
+        "Natural disasters"
+      ],
+      "thai": "น้ำท่วม",
+      "phonetic": "náam-tûam",
+      "english": "flood",
+      "exampleThai": "ฝนตกหนักทำให้[น้ำท่วม]",
+      "examplePhonetic": "fǒn dtòk nàk tam-hâi [náam-tûam]",
+      "exampleEnglish": "Heavy rain causes [flooding].",
+      "exampleLiteral": "rain falls heavily causes [water overflow]",
+      "dateAdded": "2026-08-11",
+      "position": 157
+    },
+    {
+      "id": "card-fea140fb9e10b597-1",
+      "entryType": "Word",
+      "topics": [
+        "Places"
+      ],
+      "thai": "พื้นที่",
+      "phonetic": "pʉ́ʉn-tîi",
+      "english": "area",
+      "exampleThai": "[พื้นที่]นี้เป็นแอ่ง",
+      "examplePhonetic": "[pʉ́ʉn-tîi] níi bpen àeng",
+      "exampleEnglish": "This [area] is a basin.",
+      "exampleLiteral": "[area] this is basin",
+      "dateAdded": "2026-08-11",
+      "position": 158
+    },
+    {
+      "id": "card-8f3babfdbb9d256d-1",
+      "entryType": "Word",
+      "topics": [
+        "Geography"
+      ],
+      "thai": "แอ่ง",
+      "phonetic": "àeng",
+      "english": "basin / hollow",
+      "exampleThai": "พื้นที่นี้เป็น[แอ่ง]",
+      "examplePhonetic": "pʉ́ʉn-tîi níi bpen [àeng]",
+      "exampleEnglish": "This area is a [basin].",
+      "exampleLiteral": "area this is [hollow]",
+      "dateAdded": "2026-08-11",
+      "position": 159
+    },
+    {
+      "id": "card-dcc1d3310ff16117-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Frequency"
+      ],
+      "thai": "บางครั้ง",
+      "phonetic": "baang-kráng",
+      "english": "sometimes",
+      "exampleThai": "[บางครั้ง]ผมฝันว่าเจองู",
+      "examplePhonetic": "[baang-kráng] pǒm fǎn wâa jooe nguu",
+      "exampleEnglish": "[Sometimes] I dream that I meet a snake.",
+      "exampleLiteral": "[some times] I dream clause-marker meet snake",
+      "dateAdded": "2026-08-11",
+      "position": 160
+    },
+    {
+      "id": "card-0f82cf49806cb193-1",
+      "entryType": "Particle",
+      "topics": [
+        "Language structure",
+        "Clauses"
+      ],
+      "thai": "ว่า",
+      "phonetic": "wâa",
+      "english": "clause marker; that",
+      "exampleThai": "ผมฝัน[ว่า]เจองู",
+      "examplePhonetic": "pǒm fǎn [wâa] jooe nguu",
+      "exampleEnglish": "I dreamed [that] I met a snake.",
+      "exampleLiteral": "I dream [clause marker] meet snake",
+      "dateAdded": "2026-08-11",
+      "position": 161
+    },
+    {
+      "id": "card-5beb63dd21d6a557-1",
+      "entryType": "Word",
+      "topics": [
+        "Animals"
+      ],
+      "thai": "แมลงสาบ",
+      "phonetic": "má-laeng-sàap",
+      "english": "cockroach",
+      "exampleThai": "ผมเห็น[แมลงสาบ]ในครัว",
+      "examplePhonetic": "pǒm hěn [má-laeng-sàap] nai krua",
+      "exampleEnglish": "I saw a [cockroach] in the kitchen.",
+      "exampleLiteral": "I see [cockroach] in kitchen",
+      "dateAdded": "2026-08-11",
+      "position": 162
+    },
+    {
+      "id": "card-a0fafec9d12320bc-1",
+      "entryType": "Word",
+      "topics": [
+        "Animals"
+      ],
+      "thai": "งู",
+      "phonetic": "nguu",
+      "english": "snake",
+      "exampleThai": "ผมกลัว[งู]",
+      "examplePhonetic": "pǒm glua [nguu]",
+      "exampleEnglish": "I am afraid of [snakes].",
+      "exampleLiteral": "I fear [snake]",
+      "dateAdded": "2026-08-11",
+      "position": 163
+    },
+    {
+      "id": "card-7e6b41d69daf6f0f-1",
+      "entryType": "Word",
+      "topics": [
+        "Geography"
+      ],
+      "thai": "ทะเลสาบ",
+      "phonetic": "tá-lee-sàap",
+      "english": "lake",
+      "exampleThai": "เราเดินรอบ[ทะเลสาบ]",
+      "examplePhonetic": "rao dooen rɔ̂ɔp [tá-lee-sàap]",
+      "exampleEnglish": "We walked around the [lake].",
+      "exampleLiteral": "we walk around [sea-cursed/lake]",
+      "dateAdded": "2026-08-11",
+      "position": 164
+    },
+    {
+      "id": "card-784d3b1821634cf4-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Clauses"
+      ],
+      "thai": "เพราะว่า",
+      "phonetic": "prɔ́-wâa",
+      "english": "because",
+      "exampleThai": "ผมอยู่บ้าน[เพราะว่า]ฝนตก",
+      "examplePhonetic": "pǒm yùu bâan [prɔ́-wâa] fǒn dtòk",
+      "exampleEnglish": "I stayed home [because] it was raining.",
+      "exampleLiteral": "I stay home [because-clause marker] rain falls",
+      "dateAdded": "2026-08-11",
+      "position": 165
     }
   ]
 }
