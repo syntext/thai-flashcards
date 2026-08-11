@@ -13,7 +13,7 @@
   ],
   "properties": {
     "schemaVersion": {
-      "const": 3
+      "const": 4
     },
     "generatedAt": {
       "type": "string",
@@ -46,6 +46,7 @@
           "phonetic",
           "english",
           "exampleThai",
+          "examplePhonetic",
           "exampleEnglish",
           "exampleLiteral",
           "dateAdded",
@@ -96,6 +97,10 @@
           "position": {
             "type": "integer",
             "minimum": 0
+          },
+          "examplePhonetic": {
+            "type": "string",
+            "pattern": "^[^\\[]*\\[[^\\[\\]]+\\][^\\]]*$"
           }
         }
       }
