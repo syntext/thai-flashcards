@@ -41,6 +41,7 @@
         "additionalProperties": false,
         "required": [
           "id",
+          "entryType",
           "topics",
           "thai",
           "phonetic",
@@ -56,6 +57,9 @@
           "id": {
             "type": "string",
             "minLength": 1
+          },
+          "entryType": {
+            "enum": ["Word", "Expression", "Particle", "Structure", "Word component"]
           },
           "topics": {
             "type": "array",
