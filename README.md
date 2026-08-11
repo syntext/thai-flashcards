@@ -2,11 +2,11 @@
 
 Public, generated data for the Thai Flashcards app.
 
-- `cards.json` is the live dataset.
-- `cards.schema.json` defines the fixed format.
-- `scripts/generate-cards.mjs` deterministically converts an exported Flash Card Source workbook to JSON.
-- The generator resolves columns by header name, never by column position.
-- No LLM translation or rewriting occurs during JSON generation.
+- `cards.json` is the live topic-based dataset.
+- `cards.schema.json` defines schema version 2.
+- `scripts/generate-cards.mjs` deterministically converts the single-tab Flash Card Source export.
+- Columns are resolved by normalized header name, never position.
+- No translation, inference, or rewriting occurs during JSON generation.
 
 Live URL:
 
