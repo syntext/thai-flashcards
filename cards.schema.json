@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Thai Flashcards dataset",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "sourceRevision",
+    "sourceSpreadsheet",
+    "decks"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sourceRevision": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceSpreadsheet": {
+      "const": "Thai Flash Cards"
+    },
+    "decks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "name",
+          "position",
+          "cards"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "position": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "cards": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "category",
+                "english",
+                "structuredAs",
+                "thai",
+                "phonetic",
+                "example",
+                "position"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "category": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "english": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "structuredAs": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "thai": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "phonetic": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "example": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "position": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
