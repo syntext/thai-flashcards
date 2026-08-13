@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-13T08:38:27.509Z",
-  "sourceRevision": "d0512d69ef908884",
+  "generatedAt": "2026-08-13T10:34:08.678Z",
+  "sourceRevision": "ea4f891f2a22bb83",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -2608,6 +2608,22 @@
       "exampleLiteral": "we help [reciprocal marker] work",
       "dateAdded": "2026-08-13",
       "position": 155
+    },
+    {
+      "id": "card-33a187fe997567ab-1",
+      "entryType": "Word",
+      "topics": [
+        "Travel"
+      ],
+      "thai": "การเดินทาง",
+      "phonetic": "gaan dooen-taang",
+      "english": "travel; traveling",
+      "exampleThai": "ผมชอบ[การเดินทาง]",
+      "examplePhonetic": "pǒm chɔ̂ɔp [gaan dooen-taang]",
+      "exampleEnglish": "I like [traveling].",
+      "exampleLiteral": "I like [the act of traveling].",
+      "dateAdded": "2026-08-13",
+      "position": 156
     }
   ]
 }
