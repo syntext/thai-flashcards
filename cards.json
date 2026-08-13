@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-13T00:45:08.255Z",
-  "sourceRevision": "e23d8f18713ded42",
+  "generatedAt": "2026-08-13T08:38:27.509Z",
+  "sourceRevision": "d0512d69ef908884",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -59,7 +59,11 @@
     "Weekdays",
     "Dates",
     "Natural disasters",
-    "Clauses"
+    "Clauses",
+    "People and roles",
+    "Descriptions",
+    "Emotions",
+    "Reciprocity"
   ],
   "cards": [
     {
@@ -2496,6 +2500,114 @@
       "exampleLiteral": "I stay home [because-clause marker] rain falls",
       "dateAdded": "2026-08-11",
       "position": 149
+    },
+    {
+      "id": "card-581a85ea31b2a510-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "People and roles"
+      ],
+      "thai": "ผู้",
+      "phonetic": "phûu",
+      "english": "forms a formal agent noun: person who…",
+      "exampleThai": "เขาเป็น[ผู้]จัดการร้าน",
+      "examplePhonetic": "kǎo bpen [phûu] jàt-gaan ráan",
+      "exampleEnglish": "He is the [person who] manages the shop.",
+      "exampleLiteral": "he is [agent nominalizer] manage shop",
+      "dateAdded": "2026-08-13",
+      "position": 150
+    },
+    {
+      "id": "card-e1891c47a789a1cc-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "People and roles"
+      ],
+      "thai": "นัก",
+      "phonetic": "nák",
+      "english": "forms occupation or habitual-participant nouns",
+      "exampleThai": "เขาเป็น[นัก]เรียนภาษาไทย",
+      "examplePhonetic": "kǎo bpen [nák] riian paa-sǎa tai",
+      "exampleEnglish": "He is a Thai-language [student].",
+      "exampleLiteral": "he is [participant nominalizer] study Thai language",
+      "dateAdded": "2026-08-13",
+      "position": 151
+    },
+    {
+      "id": "card-e636ecd578b52490-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Descriptions"
+      ],
+      "thai": "น่า",
+      "phonetic": "nâa",
+      "english": "forms adjectives meaning worthy of or causing a reaction",
+      "exampleThai": "หนังเรื่องนี้[น่า]ดู",
+      "examplePhonetic": "nǎng rʉ̂ʉang níi [nâa] duu",
+      "exampleEnglish": "This film is [worth] watching.",
+      "exampleLiteral": "film classifier this [worthy of] watch",
+      "dateAdded": "2026-08-13",
+      "position": 152
+    },
+    {
+      "id": "card-a0d2a2fa986a6407-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Descriptions"
+      ],
+      "thai": "ขี้",
+      "phonetic": "kîi",
+      "english": "forms descriptions of habitual tendencies, often negative",
+      "exampleThai": "เขาเป็นคน[ขี้]ลืม",
+      "examplePhonetic": "kǎo bpen kon [kîi] lʉʉm",
+      "exampleEnglish": "He is [prone to] forgetting things.",
+      "exampleLiteral": "he is person [habitually inclined to] forget",
+      "dateAdded": "2026-08-13",
+      "position": 153
+    },
+    {
+      "id": "card-08ecb31ef6714f33-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Emotions"
+      ],
+      "thai": "ใจ",
+      "phonetic": "jai",
+      "english": "forms compounds concerning emotions and mental states",
+      "exampleThai": "วันนี้ผมดี[ใจ]มาก",
+      "examplePhonetic": "wan-níi pǒm dii [jai] mâak",
+      "exampleEnglish": "I am very [glad] today.",
+      "exampleLiteral": "today I good-[heart] very",
+      "dateAdded": "2026-08-13",
+      "position": 154
+    },
+    {
+      "id": "card-5406f7d2fdad7bf8-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Reciprocity"
+      ],
+      "thai": "กัน",
+      "phonetic": "gan",
+      "english": "adds reciprocal or collective meaning",
+      "exampleThai": "เราช่วย[กัน]ทำงาน",
+      "examplePhonetic": "rao chûai [gan] tam-ngaan",
+      "exampleEnglish": "We help [one another] with the work.",
+      "exampleLiteral": "we help [reciprocal marker] work",
+      "dateAdded": "2026-08-13",
+      "position": 155
     }
   ]
 }
