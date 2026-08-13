@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-11T15:15:35.733Z",
-  "sourceRevision": "3f992469eae713c7",
+  "generatedAt": "2026-08-13T00:45:08.255Z",
+  "sourceRevision": "e23d8f18713ded42",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -57,7 +57,6 @@
     "Transport",
     "Calendar",
     "Weekdays",
-    "Months",
     "Dates",
     "Natural disasters",
     "Clauses"
@@ -2302,281 +2301,6 @@
       "position": 137
     },
     {
-      "id": "card-865e877d08fc5cab-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Calendar"
-      ],
-      "thai": "เดือน",
-      "phonetic": "dʉʉan",
-      "english": "month",
-      "exampleThai": "หนึ่งปีมีสิบสอง[เดือน]",
-      "examplePhonetic": "nʉ̀ng bpii mii sìp-sɔ̌ɔng [dʉʉan]",
-      "exampleEnglish": "One year has twelve [months].",
-      "exampleLiteral": "one year has twelve [months]",
-      "dateAdded": "2026-08-11",
-      "position": 138
-    },
-    {
-      "id": "card-47f1a988929ee23f-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "มกราคม",
-      "phonetic": "mók-gà-raa-kom",
-      "english": "January",
-      "exampleThai": "ผมเกิดเดือน[มกราคม]",
-      "examplePhonetic": "pǒm gòoet dʉʉan [mók-gà-raa-kom]",
-      "exampleEnglish": "I was born in [January].",
-      "exampleLiteral": "I born month [January]",
-      "dateAdded": "2026-08-11",
-      "position": 139
-    },
-    {
-      "id": "card-4c1ec9ea4ec678e5-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "กุมภาพันธ์",
-      "phonetic": "gum-paa-pan",
-      "english": "February",
-      "exampleThai": "เดือน[กุมภาพันธ์]มีน้อยกว่าสามสิบวัน",
-      "examplePhonetic": "dʉʉan [gum-paa-pan] mii nɔ́ɔi gwàa sǎam-sìp wan",
-      "exampleEnglish": "[February] has fewer than thirty days.",
-      "exampleLiteral": "month [February] has fewer than thirty days",
-      "dateAdded": "2026-08-11",
-      "position": 140
-    },
-    {
-      "id": "card-faff63301937b2f8-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "มีนาคม",
-      "phonetic": "mii-naa-kom",
-      "english": "March",
-      "exampleThai": "อากาศเริ่มร้อนในเดือน[มีนาคม]",
-      "examplePhonetic": "aa-gàat rôoem rɔ́ɔn nai dʉʉan [mii-naa-kom]",
-      "exampleEnglish": "The weather starts getting hot in [March].",
-      "exampleLiteral": "weather starts hot in month [March]",
-      "dateAdded": "2026-08-11",
-      "position": 141
-    },
-    {
-      "id": "card-e4414c6ba9cfe754-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "เมษายน",
-      "phonetic": "mee-sǎa-yon",
-      "english": "April",
-      "exampleThai": "สงกรานต์อยู่ในเดือน[เมษายน]",
-      "examplePhonetic": "sǒng-graan yùu nai dʉʉan [mee-sǎa-yon]",
-      "exampleEnglish": "Songkran is in [April].",
-      "exampleLiteral": "Songkran is in month [April]",
-      "dateAdded": "2026-08-11",
-      "position": 142
-    },
-    {
-      "id": "card-1fd9044b1af541c8-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "พฤษภาคม",
-      "phonetic": "prʉ́t-sà-paa-kom",
-      "english": "May",
-      "exampleThai": "ฝนเริ่มตกในเดือน[พฤษภาคม]",
-      "examplePhonetic": "fǒn rôoem dtòk nai dʉʉan [prʉ́t-sà-paa-kom]",
-      "exampleEnglish": "Rain starts falling in [May].",
-      "exampleLiteral": "rain starts fall in month [May]",
-      "dateAdded": "2026-08-11",
-      "position": 143
-    },
-    {
-      "id": "card-978f19897e3b2950-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "มิถุนายน",
-      "phonetic": "mí-tù-naa-yon",
-      "english": "June",
-      "exampleThai": "โรงเรียนเปิดเดือน[มิถุนายน]",
-      "examplePhonetic": "roong-riian bpòoet dʉʉan [mí-tù-naa-yon]",
-      "exampleEnglish": "School opens in [June].",
-      "exampleLiteral": "school opens month [June]",
-      "dateAdded": "2026-08-11",
-      "position": 144
-    },
-    {
-      "id": "card-b652b7ce09c34769-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "กรกฎาคม",
-      "phonetic": "gà-rá-gà-daa-kom",
-      "english": "July",
-      "exampleThai": "เดือน[กรกฎาคม]ฝนตกบ่อย",
-      "examplePhonetic": "dʉʉan [gà-rá-gà-daa-kom] fǒn dtòk bɔ̀i",
-      "exampleEnglish": "It rains often in [July].",
-      "exampleLiteral": "month [July] rain falls often",
-      "dateAdded": "2026-08-11",
-      "position": 145
-    },
-    {
-      "id": "card-d907455e6657a1df-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "สิงหาคม",
-      "phonetic": "sǐng-hǎa-kom",
-      "english": "August",
-      "exampleThai": "วันนี้วันที่สิบเอ็ด[สิงหาคม]",
-      "examplePhonetic": "wan-níi wan-tîi sìp-èt [sǐng-hǎa-kom]",
-      "exampleEnglish": "Today is 11 [August].",
-      "exampleLiteral": "today date eleven [August]",
-      "dateAdded": "2026-08-11",
-      "position": 146
-    },
-    {
-      "id": "card-ef6c4dfa2f9737f3-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "กันยายน",
-      "phonetic": "gan-yaa-yon",
-      "english": "September",
-      "exampleThai": "ผมจะไปกรุงเทพในเดือน[กันยายน]",
-      "examplePhonetic": "pǒm jà bpai grung-têep nai dʉʉan [gan-yaa-yon]",
-      "exampleEnglish": "I will go to Bangkok in [September].",
-      "exampleLiteral": "I will go Bangkok in month [September]",
-      "dateAdded": "2026-08-11",
-      "position": 147
-    },
-    {
-      "id": "card-da9827cbf07d7ad8-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "ตุลาคม",
-      "phonetic": "dtù-laa-kom",
-      "english": "October",
-      "exampleThai": "อากาศดีขึ้นในเดือน[ตุลาคม]",
-      "examplePhonetic": "aa-gàat dii kʉ̂n nai dʉʉan [dtù-laa-kom]",
-      "exampleEnglish": "The weather improves in [October].",
-      "exampleLiteral": "weather gets better in month [October]",
-      "dateAdded": "2026-08-11",
-      "position": 148
-    },
-    {
-      "id": "card-102fdbb8a2472b10-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "พฤศจิกายน",
-      "phonetic": "prʉ́t-sà-jì-gaa-yon",
-      "english": "November",
-      "exampleThai": "ลอยกระทงมักอยู่ในเดือน[พฤศจิกายน]",
-      "examplePhonetic": "lɔɔi-grà-tong mák yùu nai dʉʉan [prʉ́t-sà-jì-gaa-yon]",
-      "exampleEnglish": "Loy Krathong is usually in [November].",
-      "exampleLiteral": "Loy Krathong usually is in month [November]",
-      "dateAdded": "2026-08-11",
-      "position": 149
-    },
-    {
-      "id": "card-c489430f36844ce1-1",
-      "entryType": "Word",
-      "topics": [
-        "Time",
-        "Months"
-      ],
-      "thai": "ธันวาคม",
-      "phonetic": "tan-waa-kom",
-      "english": "December",
-      "exampleThai": "ปลายเดือน[ธันวาคม]อากาศเย็น",
-      "examplePhonetic": "bplaai dʉʉan [tan-waa-kom] aa-gàat yen",
-      "exampleEnglish": "The weather is cool in late [December].",
-      "exampleLiteral": "end month [December] weather cool",
-      "dateAdded": "2026-08-11",
-      "position": 150
-    },
-    {
-      "id": "card-fdede11d56f84df1-1",
-      "entryType": "Word component",
-      "topics": [
-        "Language structure",
-        "Word formation",
-        "Calendar"
-      ],
-      "thai": "คม",
-      "phonetic": "kom",
-      "english": "month ending for 31-day months",
-      "exampleThai": "มกราคมลงท้ายด้วย[คม]",
-      "examplePhonetic": "mók-gà-raa-kom long-táai dûai [kom]",
-      "exampleEnglish": "Makarakhom ends with [khom].",
-      "exampleLiteral": "January ends with [31-day-month ending]",
-      "dateAdded": "2026-08-11",
-      "position": 151
-    },
-    {
-      "id": "card-001ac75f864b7baf-1",
-      "entryType": "Word component",
-      "topics": [
-        "Language structure",
-        "Word formation",
-        "Calendar"
-      ],
-      "thai": "พันธ์",
-      "phonetic": "pan",
-      "english": "month element in February",
-      "exampleThai": "กุมภาพันธ์มีคำว่า[พันธ์]",
-      "examplePhonetic": "gum-paa-pan mii kam wâa [pan]",
-      "exampleEnglish": "Kumphaphan contains [phan].",
-      "exampleLiteral": "February has word [month element]",
-      "dateAdded": "2026-08-11",
-      "position": 152
-    },
-    {
-      "id": "card-2a35206d516614f7-1",
-      "entryType": "Word component",
-      "topics": [
-        "Language structure",
-        "Word formation",
-        "Calendar"
-      ],
-      "thai": "ยน",
-      "phonetic": "yon",
-      "english": "month ending for 30-day months",
-      "exampleThai": "เมษายนลงท้ายด้วย[ยน]",
-      "examplePhonetic": "mee-sǎa-yon long-táai dûai [yon]",
-      "exampleEnglish": "Mesayon ends with [yon].",
-      "exampleLiteral": "April ends with [30-day-month ending]",
-      "dateAdded": "2026-08-11",
-      "position": 153
-    },
-    {
       "id": "card-9655f2f5292323ba-1",
       "entryType": "Expression",
       "topics": [
@@ -2591,7 +2315,7 @@
       "exampleEnglish": "Today is the [eleventh] of August.",
       "exampleLiteral": "today [date number] eleven August",
       "dateAdded": "2026-08-11",
-      "position": 154
+      "position": 138
     },
     {
       "id": "card-fa55e66ac9936030-1",
@@ -2607,7 +2331,7 @@
       "exampleEnglish": "How is the [weather] now?",
       "exampleLiteral": "now [weather] is how",
       "dateAdded": "2026-08-11",
-      "position": 155
+      "position": 139
     },
     {
       "id": "card-1555ba2df634176b-1",
@@ -2623,7 +2347,7 @@
       "exampleEnglish": "It is [raining] heavily today.",
       "exampleLiteral": "today [rain falls] heavily very",
       "dateAdded": "2026-08-11",
-      "position": 156
+      "position": 140
     },
     {
       "id": "card-b483f413055f9fd6-1",
@@ -2640,7 +2364,7 @@
       "exampleEnglish": "Heavy rain causes [flooding].",
       "exampleLiteral": "rain falls heavily causes [water overflow]",
       "dateAdded": "2026-08-11",
-      "position": 157
+      "position": 141
     },
     {
       "id": "card-fea140fb9e10b597-1",
@@ -2656,7 +2380,7 @@
       "exampleEnglish": "This [area] is a basin.",
       "exampleLiteral": "[area] this is basin",
       "dateAdded": "2026-08-11",
-      "position": 158
+      "position": 142
     },
     {
       "id": "card-8f3babfdbb9d256d-1",
@@ -2672,7 +2396,7 @@
       "exampleEnglish": "This area is a [basin].",
       "exampleLiteral": "area this is [hollow]",
       "dateAdded": "2026-08-11",
-      "position": 159
+      "position": 143
     },
     {
       "id": "card-dcc1d3310ff16117-1",
@@ -2689,7 +2413,7 @@
       "exampleEnglish": "[Sometimes] I dream that I meet a snake.",
       "exampleLiteral": "[some times] I dream clause-marker meet snake",
       "dateAdded": "2026-08-11",
-      "position": 160
+      "position": 144
     },
     {
       "id": "card-0f82cf49806cb193-1",
@@ -2706,7 +2430,7 @@
       "exampleEnglish": "I dreamed [that] I met a snake.",
       "exampleLiteral": "I dream [clause marker] meet snake",
       "dateAdded": "2026-08-11",
-      "position": 161
+      "position": 145
     },
     {
       "id": "card-5beb63dd21d6a557-1",
@@ -2722,7 +2446,7 @@
       "exampleEnglish": "I saw a [cockroach] in the kitchen.",
       "exampleLiteral": "I see [cockroach] in kitchen",
       "dateAdded": "2026-08-11",
-      "position": 162
+      "position": 146
     },
     {
       "id": "card-a0fafec9d12320bc-1",
@@ -2738,7 +2462,7 @@
       "exampleEnglish": "I am afraid of [snakes].",
       "exampleLiteral": "I fear [snake]",
       "dateAdded": "2026-08-11",
-      "position": 163
+      "position": 147
     },
     {
       "id": "card-7e6b41d69daf6f0f-1",
@@ -2754,7 +2478,7 @@
       "exampleEnglish": "We walked around the [lake].",
       "exampleLiteral": "we walk around [sea-cursed/lake]",
       "dateAdded": "2026-08-11",
-      "position": 164
+      "position": 148
     },
     {
       "id": "card-784d3b1821634cf4-1",
@@ -2771,7 +2495,7 @@
       "exampleEnglish": "I stayed home [because] it was raining.",
       "exampleLiteral": "I stay home [because-clause marker] rain falls",
       "dateAdded": "2026-08-11",
-      "position": 165
+      "position": 149
     }
   ]
 }
