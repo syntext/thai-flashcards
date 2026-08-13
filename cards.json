@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-13T10:34:08.678Z",
-  "sourceRevision": "ea4f891f2a22bb83",
+  "generatedAt": "2026-08-13T10:52:13.864Z",
+  "sourceRevision": "70246709cfde4c89",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -2624,6 +2624,57 @@
       "exampleLiteral": "I like [the act of traveling].",
       "dateAdded": "2026-08-13",
       "position": 156
+    },
+    {
+      "id": "card-b2692698de1dbff3-1",
+      "entryType": "Word",
+      "topics": [
+        "Feelings",
+        "Daily life"
+      ],
+      "thai": "เหนื่อย",
+      "phonetic": "nʉ̀ai",
+      "english": "tired",
+      "exampleThai": "วันนี้ผม[เหนื่อย]เพราะตื่นเช้า",
+      "examplePhonetic": "wan-níi pǒm [nʉ̀ai] prɔ́ dtʉ̀ʉn cháo",
+      "exampleEnglish": "Today I am [tired] because I woke up early.",
+      "exampleLiteral": "today I [tired] because wake early",
+      "dateAdded": "2026-08-13",
+      "position": 157
+    },
+    {
+      "id": "card-89c3f9cd5ad05326-1",
+      "entryType": "Expression",
+      "topics": [
+        "Daily life",
+        "Time"
+      ],
+      "thai": "ตื่นเช้า",
+      "phonetic": "dtʉ̀ʉn-cháo",
+      "english": "wake up early",
+      "exampleThai": "วันนี้ผมเหนื่อยเพราะ[ตื่นเช้า]",
+      "examplePhonetic": "wan-níi pǒm nʉ̀ai prɔ́ [dtʉ̀ʉn-cháo]",
+      "exampleEnglish": "Today I am tired because I [woke up early].",
+      "exampleLiteral": "today I tired because [wake early]",
+      "dateAdded": "2026-08-13",
+      "position": 158
+    },
+    {
+      "id": "card-5d3c33edb8cb6fff-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Clauses"
+      ],
+      "thai": "เพราะ",
+      "phonetic": "prɔ́",
+      "english": "because; introduces a reason clause",
+      "exampleThai": "วันนี้ผมเหนื่อย[เพราะ]ตื่นเช้า",
+      "examplePhonetic": "wan-níi pǒm nʉ̀ai [prɔ́] dtʉ̀ʉn cháo",
+      "exampleEnglish": "Today I am tired [because] I woke up early.",
+      "exampleLiteral": "today I tired [because] wake early",
+      "dateAdded": "2026-08-13",
+      "position": 159
     }
   ]
 }
