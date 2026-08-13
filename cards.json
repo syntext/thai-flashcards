@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-13T10:52:13.864Z",
-  "sourceRevision": "70246709cfde4c89",
+  "generatedAt": "2026-08-13T14:10:21.634Z",
+  "sourceRevision": "7273530080f0f9c5",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -63,7 +63,12 @@
     "People and roles",
     "Descriptions",
     "Emotions",
-    "Reciprocity"
+    "Reciprocity",
+    "Prepositions",
+    "Pronouns",
+    "Possession",
+    "Register",
+    "Modality"
   ],
   "cards": [
     {
@@ -2675,6 +2680,679 @@
       "exampleLiteral": "today I tired [because] wake early",
       "dateAdded": "2026-08-13",
       "position": 159
+    },
+    {
+      "id": "card-d58f913b9ace3868-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Sequence"
+      ],
+      "thai": "หลังจากนั้น",
+      "phonetic": "lǎng-jàak-nán",
+      "english": "after that; then",
+      "exampleThai": "วันนี้ผมกินข้าว [หลังจากนั้น]ดื่มกาแฟ",
+      "examplePhonetic": "wan-níi pǒm gin kâao [lǎng-jàak-nán] dʉ̀ʉm gaa-fɛɛ",
+      "exampleEnglish": "Today I ate, [then] drank coffee.",
+      "exampleLiteral": "today I eat rice [after that] drink coffee",
+      "dateAdded": "2026-08-13",
+      "position": 160
+    },
+    {
+      "id": "card-481359e6b78db9d6-1",
+      "entryType": "Word",
+      "topics": [
+        "Body"
+      ],
+      "thai": "หลัง",
+      "phonetic": "lǎng",
+      "english": "back",
+      "exampleThai": "ผมปวด[หลัง]",
+      "examplePhonetic": "pǒm bpùat [lǎng]",
+      "exampleEnglish": "My [back] hurts.",
+      "exampleLiteral": "I ache [back]",
+      "dateAdded": "2026-08-13",
+      "position": 161
+    },
+    {
+      "id": "card-aad742f7dc09018a-1",
+      "entryType": "Particle",
+      "topics": [
+        "Language structure",
+        "Prepositions"
+      ],
+      "thai": "จาก",
+      "phonetic": "jàak",
+      "english": "from; marks a source or starting point",
+      "exampleThai": "ผมเดินทาง[จาก]กรุงเทพฯ ไปเชียงใหม่",
+      "examplePhonetic": "pǒm dooen-taang [jàak] grung-têep bpai chiiang-mài",
+      "exampleEnglish": "I travel [from] Bangkok to Chiang Mai.",
+      "exampleLiteral": "I travel [from] Bangkok go Chiang Mai",
+      "dateAdded": "2026-08-13",
+      "position": 162
+    },
+    {
+      "id": "card-41dac9f0569945b8-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Sequence"
+      ],
+      "thai": "ก่อน",
+      "phonetic": "gɔ̀ɔn",
+      "english": "before; first",
+      "exampleThai": "ผมดื่มกาแฟ[ก่อน]ขึ้นเครื่องบิน",
+      "examplePhonetic": "pǒm dʉ̀ʉm gaa-fɛɛ [gɔ̀ɔn] kʉ̂n krʉ̂ang-bin",
+      "exampleEnglish": "I drink coffee [before] boarding the plane.",
+      "exampleLiteral": "I drink coffee [before] ascend airplane",
+      "dateAdded": "2026-08-13",
+      "position": 163
+    },
+    {
+      "id": "card-c5d544a744bb97c5-1",
+      "entryType": "Word",
+      "topics": [
+        "Travel",
+        "Transport"
+      ],
+      "thai": "เครื่องบิน",
+      "phonetic": "krʉ̂ang-bin",
+      "english": "airplane",
+      "exampleThai": "ผมดื่มกาแฟก่อนขึ้น[เครื่องบิน]",
+      "examplePhonetic": "pǒm dʉ̀ʉm gaa-fɛɛ gɔ̀ɔn kʉ̂n [krʉ̂ang-bin]",
+      "exampleEnglish": "I drink coffee before boarding the [airplane].",
+      "exampleLiteral": "I drink coffee before ascend [flying machine]",
+      "dateAdded": "2026-08-13",
+      "position": 164
+    },
+    {
+      "id": "card-60390f4857b8bf87-1",
+      "entryType": "Word",
+      "topics": [
+        "Description"
+      ],
+      "thai": "ง่าย",
+      "phonetic": "ngâai",
+      "english": "easy",
+      "exampleThai": "งานนี้[ง่าย]มาก",
+      "examplePhonetic": "ngaan níi [ngâai] mâak",
+      "exampleEnglish": "This task is very [easy].",
+      "exampleLiteral": "work this [easy] very",
+      "dateAdded": "2026-08-13",
+      "position": 165
+    },
+    {
+      "id": "card-16bdaa6bf7d0c248-1",
+      "entryType": "Expression",
+      "topics": [
+        "Social"
+      ],
+      "thai": "เจอกัน",
+      "phonetic": "jooe-gan",
+      "english": "see each other; see you",
+      "exampleThai": "แล้ว[เจอกัน]ครั้งหน้า",
+      "examplePhonetic": "láew [jooe-gan] kráng-nâa",
+      "exampleEnglish": "[See you] next time.",
+      "exampleLiteral": "then [meet each other] next time",
+      "dateAdded": "2026-08-13",
+      "position": 166
+    },
+    {
+      "id": "card-f8a845a6d85025c0-1",
+      "entryType": "Expression",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "เหมือนกัน",
+      "phonetic": "mʉ̌an-gan",
+      "english": "the same; alike",
+      "exampleThai": "เราคิด[เหมือนกัน]",
+      "examplePhonetic": "rao kít [mʉ̌an-gan]",
+      "exampleEnglish": "We think [the same way].",
+      "exampleLiteral": "we think [same together]",
+      "dateAdded": "2026-08-13",
+      "position": 167
+    },
+    {
+      "id": "card-f1ae8a0626f2c5e6-1",
+      "entryType": "Expression",
+      "topics": [
+        "Social",
+        "Reciprocity"
+      ],
+      "thai": "ด้วยกัน",
+      "phonetic": "dûai-gan",
+      "english": "together",
+      "exampleThai": "เราไปตลาด[ด้วยกัน]",
+      "examplePhonetic": "rao bpai dtà-làat [dûai-gan]",
+      "exampleEnglish": "We go to the market [together].",
+      "exampleLiteral": "we go market [together]",
+      "dateAdded": "2026-08-13",
+      "position": 168
+    },
+    {
+      "id": "card-6a24e053a31b5a5a-1",
+      "entryType": "Expression",
+      "topics": [
+        "Comparison"
+      ],
+      "thai": "คล้ายกัน",
+      "phonetic": "kláai-gan",
+      "english": "similar to each other",
+      "exampleThai": "สองคำนี้[คล้ายกัน]",
+      "examplePhonetic": "sɔ̌ɔng kam níi [kláai-gan]",
+      "exampleEnglish": "These two words are [similar].",
+      "exampleLiteral": "two words these [similar to each other]",
+      "dateAdded": "2026-08-13",
+      "position": 169
+    },
+    {
+      "id": "card-78cbfcb79421bacb-1",
+      "entryType": "Expression",
+      "topics": [
+        "Relationships",
+        "Reciprocity"
+      ],
+      "thai": "คบกัน",
+      "phonetic": "kóp-gan",
+      "english": "date; be in a relationship",
+      "exampleThai": "พวกเขา[คบกัน]อยู่",
+      "examplePhonetic": "pûak-kǎo [kóp-gan] yùu",
+      "exampleEnglish": "They are [dating].",
+      "exampleLiteral": "they [associate reciprocally] currently",
+      "dateAdded": "2026-08-13",
+      "position": 170
+    },
+    {
+      "id": "card-99f5e38e50750037-1",
+      "entryType": "Word",
+      "topics": [
+        "Actions"
+      ],
+      "thai": "พยายาม",
+      "phonetic": "pá-yaa-yaam",
+      "english": "try; make an effort",
+      "exampleThai": "ฉัน[พยายาม]พูดภาษาไทย",
+      "examplePhonetic": "chǎn [pá-yaa-yaam] phûut paa-sǎa tai",
+      "exampleEnglish": "I [try] to speak Thai.",
+      "exampleLiteral": "I [make effort] speak Thai language",
+      "dateAdded": "2026-08-13",
+      "position": 171
+    },
+    {
+      "id": "card-1ccd7e47cad08acb-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "พวกเขา",
+      "phonetic": "pûak-kǎo",
+      "english": "they; them",
+      "exampleThai": "[พวกเขา]คบกันอยู่",
+      "examplePhonetic": "[pûak-kǎo] kóp-gan yùu",
+      "exampleEnglish": "[They] are dating.",
+      "exampleLiteral": "[group them] date each other currently",
+      "dateAdded": "2026-08-13",
+      "position": 172
+    },
+    {
+      "id": "card-1abc675b29cde0cc-1",
+      "entryType": "Word component",
+      "topics": [
+        "Language structure",
+        "Word formation",
+        "Pronouns"
+      ],
+      "thai": "พวก",
+      "phonetic": "pûak",
+      "english": "forms a plural or group expression",
+      "exampleThai": "[พวก]เขากำลังมา",
+      "examplePhonetic": "[pûak]-kǎo gam-lang maa",
+      "exampleEnglish": "[They] are coming.",
+      "exampleLiteral": "[group marker]-they currently come",
+      "dateAdded": "2026-08-13",
+      "position": 173
+    },
+    {
+      "id": "card-913d25e70a2fb6be-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Possession"
+      ],
+      "thai": "ของ",
+      "phonetic": "kɔ̌ɔng",
+      "english": "of; marks possession",
+      "exampleThai": "นี่คือหนังสือ[ของ]ผม",
+      "examplePhonetic": "nîi kʉʉ nǎng-sʉ̌ʉ [kɔ̌ɔng] pǒm",
+      "exampleEnglish": "This is [my] book.",
+      "exampleLiteral": "this is book [of] me",
+      "dateAdded": "2026-08-13",
+      "position": 174
+    },
+    {
+      "id": "card-bceea135f9633c69-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "ผม",
+      "phonetic": "pǒm",
+      "english": "I; me (male speaker)",
+      "exampleThai": "[ผม]จะไปเชียงใหม่",
+      "examplePhonetic": "[pǒm] jà bpai chiiang-mài",
+      "exampleEnglish": "[I] will go to Chiang Mai.",
+      "exampleLiteral": "[I, male] will go Chiang Mai",
+      "dateAdded": "2026-08-13",
+      "position": 175
+    },
+    {
+      "id": "card-344efc59df786de0-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "ฉัน",
+      "phonetic": "chǎn",
+      "english": "I; me",
+      "exampleThai": "[ฉัน]พยายามพูดภาษาไทย",
+      "examplePhonetic": "[chǎn] pá-yaa-yaam phûut paa-sǎa tai",
+      "exampleEnglish": "[I] try to speak Thai.",
+      "exampleLiteral": "[I] make effort speak Thai language",
+      "dateAdded": "2026-08-13",
+      "position": 176
+    },
+    {
+      "id": "card-a9462351c11ff44d-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "เขา",
+      "phonetic": "kǎo",
+      "english": "he; she; they",
+      "exampleThai": "[เขา]อยู่ที่บ้าน",
+      "examplePhonetic": "[kǎo] yùu tîi bâan",
+      "exampleEnglish": "[He] is at home.",
+      "exampleLiteral": "[he/she] is at home",
+      "dateAdded": "2026-08-13",
+      "position": 177
+    },
+    {
+      "id": "card-a9b5be4e888154b0-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "เธอ",
+      "phonetic": "təə",
+      "english": "she; you (familiar)",
+      "exampleThai": "[เธอ]ว่างไหม",
+      "examplePhonetic": "[təə] wâang mái",
+      "exampleEnglish": "Are [you] free?",
+      "exampleLiteral": "[she/you familiar] free question",
+      "dateAdded": "2026-08-13",
+      "position": 178
+    },
+    {
+      "id": "card-8ca1895e7e6b04fe-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "เรา",
+      "phonetic": "rao",
+      "english": "we; us; I (informal)",
+      "exampleThai": "[เรา]ไปตลาดด้วยกัน",
+      "examplePhonetic": "[rao] bpai dtà-làat dûai-gan",
+      "exampleEnglish": "[We] go to the market together.",
+      "exampleLiteral": "[we] go market together",
+      "dateAdded": "2026-08-13",
+      "position": 179
+    },
+    {
+      "id": "card-42509b34d61b4cb3-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "คุณ",
+      "phonetic": "kun",
+      "english": "you (polite/neutral)",
+      "exampleThai": "[คุณ]ว่างไหม",
+      "examplePhonetic": "[kun] wâang mái",
+      "exampleEnglish": "Are [you] free?",
+      "exampleLiteral": "[you] free question",
+      "dateAdded": "2026-08-13",
+      "position": 180
+    },
+    {
+      "id": "card-a474e3d0a20317b9-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "พวกเรา",
+      "phonetic": "pûak-rao",
+      "english": "we; us (our group)",
+      "exampleThai": "[พวกเรา]เรียนภาษาไทย",
+      "examplePhonetic": "[pûak-rao] riian paa-sǎa tai",
+      "exampleEnglish": "[We] study Thai.",
+      "exampleLiteral": "[group us] study Thai language",
+      "dateAdded": "2026-08-13",
+      "position": 181
+    },
+    {
+      "id": "card-5231aa2c82ec13e4-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "มัน",
+      "phonetic": "man",
+      "english": "it; it/he/she for animals or things",
+      "exampleThai": "[มัน]อยู่บนโต๊ะ",
+      "examplePhonetic": "[man] yùu bon dtó",
+      "exampleEnglish": "[It] is on the table.",
+      "exampleLiteral": "[it] is on table",
+      "dateAdded": "2026-08-13",
+      "position": 182
+    },
+    {
+      "id": "card-b25ebbb27ef31a70-1",
+      "entryType": "Word",
+      "topics": [
+        "Family",
+        "People"
+      ],
+      "thai": "น้อง",
+      "phonetic": "nɔ́ɔng",
+      "english": "younger sibling or younger person",
+      "exampleThai": "[น้อง]อยู่ที่บ้าน",
+      "examplePhonetic": "[nɔ́ɔng] yùu tîi bâan",
+      "exampleEnglish": "My [younger sibling] is at home.",
+      "exampleLiteral": "[younger person] is at home",
+      "dateAdded": "2026-08-13",
+      "position": 183
+    },
+    {
+      "id": "card-2859f2fd5eefeb63-1",
+      "entryType": "Word",
+      "topics": [
+        "Family",
+        "People"
+      ],
+      "thai": "พี่",
+      "phonetic": "pîi",
+      "english": "older sibling or older person",
+      "exampleThai": "[พี่]ไปทำงานแล้ว",
+      "examplePhonetic": "[pîi] bpai tam-ngaan láew",
+      "exampleEnglish": "My [older sibling] has gone to work.",
+      "exampleLiteral": "[older person] go work already",
+      "dateAdded": "2026-08-13",
+      "position": 184
+    },
+    {
+      "id": "card-f182b0c0e56a6342-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns",
+        "Register"
+      ],
+      "thai": "กู",
+      "phonetic": "guu",
+      "english": "I; me (very informal or rude)",
+      "exampleThai": "[กู]ไม่ไป",
+      "examplePhonetic": "[guu] mâi bpai",
+      "exampleEnglish": "[I'm] not going.",
+      "exampleLiteral": "[I, very informal] not go",
+      "dateAdded": "2026-08-13",
+      "position": 185
+    },
+    {
+      "id": "card-0120102a41bc4cd1-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns",
+        "Register"
+      ],
+      "thai": "มึง",
+      "phonetic": "mʉng",
+      "english": "you (very informal or rude)",
+      "exampleThai": "[มึง]ว่างไหม",
+      "examplePhonetic": "[mʉng] wâang mái",
+      "exampleEnglish": "Are [you] free?",
+      "exampleLiteral": "[you, very informal] free question",
+      "dateAdded": "2026-08-13",
+      "position": 186
+    },
+    {
+      "id": "card-189de89feb6bd751-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns"
+      ],
+      "thai": "หนู",
+      "phonetic": "nǔu",
+      "english": "I/me used by a child or younger woman; mouse/rat",
+      "exampleThai": "[หนู]ขอน้ำเปล่าค่ะ",
+      "examplePhonetic": "[nǔu] kɔ̌ɔ náam-bplào kâ",
+      "exampleEnglish": "[I] would like plain water.",
+      "exampleLiteral": "[I, younger/female] request plain water polite",
+      "dateAdded": "2026-08-13",
+      "position": 187
+    },
+    {
+      "id": "card-fc5486bf9723783c-1",
+      "entryType": "Word",
+      "topics": [
+        "Language",
+        "Conversation"
+      ],
+      "thai": "เรื่อง",
+      "phonetic": "rʉ̂ang",
+      "english": "matter; topic; story",
+      "exampleThai": "ผมไม่เชื่อ[เรื่อง]ผี",
+      "examplePhonetic": "pǒm mâi chʉ̂a [rʉ̂ang] phǐi",
+      "exampleEnglish": "I do not believe in ghost [stories].",
+      "exampleLiteral": "I not believe [matter/story] ghost",
+      "dateAdded": "2026-08-13",
+      "position": 188
+    },
+    {
+      "id": "card-9e197ea01dbb113d-1",
+      "entryType": "Word",
+      "topics": [
+        "Ideas"
+      ],
+      "thai": "เชื่อ",
+      "phonetic": "chʉ̂a",
+      "english": "believe",
+      "exampleThai": "ผมไม่[เชื่อ]เรื่องผี",
+      "examplePhonetic": "pǒm mâi [chʉ̂a] rʉ̂ang phǐi",
+      "exampleEnglish": "I do not [believe] in ghost stories.",
+      "exampleLiteral": "I not [believe] matter ghost",
+      "dateAdded": "2026-08-13",
+      "position": 189
+    },
+    {
+      "id": "card-c5e7ce3fd010793e-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Modality"
+      ],
+      "thai": "ต้อง",
+      "phonetic": "dtɔ̂ng",
+      "english": "must; have to",
+      "exampleThai": "วันนี้ผม[ต้อง]ไปตลาด",
+      "examplePhonetic": "wan-níi pǒm [dtɔ̂ng] bpai dtà-làat",
+      "exampleEnglish": "Today I [have to] go to the market.",
+      "exampleLiteral": "today I [must] go market",
+      "dateAdded": "2026-08-13",
+      "position": 190
+    },
+    {
+      "id": "card-a85bdac6cb28c676-1",
+      "entryType": "Expression",
+      "topics": [
+        "Description"
+      ],
+      "thai": "ถูกต้อง",
+      "phonetic": "thùuk-dtɔ̂ng",
+      "english": "correct; accurate",
+      "exampleThai": "คำตอบนี้[ถูกต้อง]",
+      "examplePhonetic": "kam-dtɔ̀ɔp níi [thùuk-dtɔ̂ng]",
+      "exampleEnglish": "This answer is [correct].",
+      "exampleLiteral": "answer this [correct]",
+      "dateAdded": "2026-08-13",
+      "position": 191
+    },
+    {
+      "id": "card-0a04b4881a841bda-1",
+      "entryType": "Word",
+      "topics": [
+        "Description"
+      ],
+      "thai": "ถูก",
+      "phonetic": "thùuk",
+      "english": "correct; right; also cheap depending on context",
+      "exampleThai": "อันนี้[ถูก]ไหม",
+      "examplePhonetic": "an-níi [thùuk] mái",
+      "exampleEnglish": "Is this [correct]?",
+      "exampleLiteral": "this [correct] question",
+      "dateAdded": "2026-08-13",
+      "position": 192
+    },
+    {
+      "id": "card-ecf06678350540f2-1",
+      "entryType": "Word",
+      "topics": [
+        "Pronouns",
+        "Independence"
+      ],
+      "thai": "ตัวเอง",
+      "phonetic": "dtua-eeng",
+      "english": "oneself; yourself",
+      "exampleThai": "เขาทำอาหารด้วย[ตัวเอง]",
+      "examplePhonetic": "kǎo tam aa-hǎan dûai [dtua-eeng]",
+      "exampleEnglish": "He cooks by [himself].",
+      "exampleLiteral": "he makes food with [self]",
+      "dateAdded": "2026-08-13",
+      "position": 193
+    },
+    {
+      "id": "card-deee04602a06b005-1",
+      "entryType": "Expression",
+      "topics": [
+        "Time",
+        "Sequence"
+      ],
+      "thai": "ครั้งหน้า",
+      "phonetic": "kráng-nâa",
+      "english": "next time",
+      "exampleThai": "แล้วเจอกัน[ครั้งหน้า]",
+      "examplePhonetic": "láew jooe-gan [kráng-nâa]",
+      "exampleEnglish": "See you [next time].",
+      "exampleLiteral": "then meet each other [next occasion]",
+      "dateAdded": "2026-08-13",
+      "position": 194
+    },
+    {
+      "id": "card-d37cc3f6746aafe6-1",
+      "entryType": "Word",
+      "topics": [
+        "Description"
+      ],
+      "thai": "เปล่า",
+      "phonetic": "bplào",
+      "english": "plain; empty; without additions",
+      "exampleThai": "ขอน้ำ[เปล่า]หนึ่งขวด",
+      "examplePhonetic": "kɔ̌ɔ náam [bplào] nʉ̀ng kùat",
+      "exampleEnglish": "One bottle of [plain] water, please.",
+      "exampleLiteral": "request water [plain] one bottle",
+      "dateAdded": "2026-08-13",
+      "position": 195
+    },
+    {
+      "id": "card-8d8c646b659898e0-1",
+      "entryType": "Word",
+      "topics": [
+        "Food"
+      ],
+      "thai": "น้ำเปล่า",
+      "phonetic": "náam-bplào",
+      "english": "plain drinking water; still water",
+      "exampleThai": "ขอ[น้ำเปล่า]หนึ่งขวด",
+      "examplePhonetic": "kɔ̌ɔ [náam-bplào] nʉ̀ng kùat",
+      "exampleEnglish": "One bottle of [still water], please.",
+      "exampleLiteral": "request [plain water] one bottle",
+      "dateAdded": "2026-08-13",
+      "position": 196
+    },
+    {
+      "id": "card-594b67558b930d71-1",
+      "entryType": "Word",
+      "topics": [
+        "Food"
+      ],
+      "thai": "ข้าวเปล่า",
+      "phonetic": "kâao-bplào",
+      "english": "plain rice",
+      "exampleThai": "ขอ[ข้าวเปล่า]หนึ่งจาน",
+      "examplePhonetic": "kɔ̌ɔ [kâao-bplào] nʉ̀ng jaan",
+      "exampleEnglish": "One plate of [plain rice], please.",
+      "exampleLiteral": "request [plain rice] one plate",
+      "dateAdded": "2026-08-13",
+      "position": 197
+    },
+    {
+      "id": "card-6bf6ee047efe03b1-1",
+      "entryType": "Word",
+      "topics": [
+        "Food"
+      ],
+      "thai": "กาแฟดำ",
+      "phonetic": "gaa-fɛɛ-dam",
+      "english": "black coffee",
+      "exampleThai": "ผมดื่ม[กาแฟดำ]ไม่ใส่น้ำตาล",
+      "examplePhonetic": "pǒm dʉ̀ʉm [gaa-fɛɛ-dam] mâi sài náam-dtaan",
+      "exampleEnglish": "I drink [black coffee] without sugar.",
+      "exampleLiteral": "I drink [black coffee] not add sugar",
+      "dateAdded": "2026-08-13",
+      "position": 198
+    },
+    {
+      "id": "card-9b491061b9177dd8-1",
+      "entryType": "Word",
+      "topics": [
+        "Daily life"
+      ],
+      "thai": "ว่าง",
+      "phonetic": "wâang",
+      "english": "free; available",
+      "exampleThai": "วันนี้[ว่าง]ไหม",
+      "examplePhonetic": "wan-níi [wâang] mái",
+      "exampleEnglish": "Are you [free] today?",
+      "exampleLiteral": "today [available] question",
+      "dateAdded": "2026-08-13",
+      "position": 199
+    },
+    {
+      "id": "card-442d001414a76962-1",
+      "entryType": "Expression",
+      "topics": [
+        "Daily life"
+      ],
+      "thai": "ไม่ว่าง",
+      "phonetic": "mâi-wâang",
+      "english": "busy; unavailable",
+      "exampleThai": "ตอนนี้ผม[ไม่ว่าง]",
+      "examplePhonetic": "dtɔɔn-níi pǒm [mâi-wâang]",
+      "exampleEnglish": "I am [busy] right now.",
+      "exampleLiteral": "now I [not free]",
+      "dateAdded": "2026-08-13",
+      "position": 200
     }
   ]
 }
