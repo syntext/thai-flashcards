@@ -4,7 +4,7 @@ const inputPath=process.argv[2],outputPath=process.argv[3]||"cards.json";
 if(!inputPath)throw new Error("Usage: node scripts/generate-cards.mjs <source-export.json> [cards.json]");
 const input=JSON.parse(fs.readFileSync(inputPath,"utf8")),rows=Array.isArray(input.rows)?input.rows:input.tabs?.[0]?.rows;
 if(!Array.isArray(rows)||rows.length<2)throw new Error("Input must contain rows with a header row");
-const REQUIRED=["Entry type","Topics","Thai word","Phonetic word","English word","Example phrase","Example phrase phonetic","English example phrase","Date added","Literal example phrase"];
+const REQUIRED=["Entry type","Topics","Thai word","Phonetic word","English word","Example phrase","Example phrase phonetic","English example phrase","Date added","Literal example phrase","Ignore"];
 const ENTRY_TYPES=new Set(["Word","Expression","Particle","Structure","Word component"]);
 const normalize=value=>String(value??"").trim(),headers=rows[0].map(normalize);
 const normalizedHeaders=headers.map(header=>header.toLowerCase());
@@ -13,7 +13,7 @@ const index=Object.fromEntries(REQUIRED.map(header=>[header,headers.findIndex(h=
 const hash=value=>{let h=0xcbf29ce484222325n;for(let i=0;i<value.length;i++){const code=value.charCodeAt(i);h^=BigInt(code&255);h=BigInt.asUintN(64,h*0x100000001b3n);h^=BigInt(code>>>8);h=BigInt.asUintN(64,h*0x100000001b3n)}return h.toString(16).padStart(16,"0")};
 const oneMarker=(value,row,label)=>{if((value.match(/\[/g)||[]).length!==1||(value.match(/\]/g)||[]).length!==1||!/^[^\[]*\[[^\[\]]+\][^\]]*$/.test(value))throw new Error(`${label} must contain exactly one [marked span] at row ${row}`)};
 const seen=new Map(),exactRows=new Set(),topics=[],topicKeys=new Set();
-const cards=rows.slice(1).filter(row=>row.some(value=>normalize(value))).map((row,position)=>{
+const cards=rows.slice(1).filter(row=>row.some(value=>normalize(value))).filter(row=>!normalize(row[index["Ignore"]])).map((row,position)=>{
  const entryType=normalize(row[index["Entry type"]]);if(!ENTRY_TYPES.has(entryType))throw new Error(`Invalid Entry type at row ${position+2}`);
  const cardTopics=normalize(row[index["Topics"]]).split(",").map(normalize).filter(Boolean);if(!cardTopics.length)cardTopics.push("Generic");
  const thai=normalize(row[index["Thai word"]]),phonetic=normalize(row[index["Phonetic word"]]),english=normalize(row[index["English word"]]),exampleThai=normalize(row[index["Example phrase"]]),examplePhonetic=normalize(row[index["Example phrase phonetic"]]),exampleEnglish=normalize(row[index["English example phrase"]]),exampleLiteral=normalize(row[index["Literal example phrase"]]),dateAdded=normalize(row[index["Date added"]]);
