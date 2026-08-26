@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-13T14:10:21.634Z",
-  "sourceRevision": "7273530080f0f9c5",
+  "generatedAt": "2026-08-26T22:04:48.876Z",
+  "sourceRevision": "61e1389079f137ab",
   "sourceSpreadsheet": "Thai Flash Cards",
   "topics": [
     "Daily life",
@@ -68,7 +68,9 @@
     "Pronouns",
     "Possession",
     "Register",
-    "Modality"
+    "Modality",
+    "Beliefs",
+    "Supernatural"
   ],
   "cards": [
     {
@@ -3353,6 +3355,41 @@
       "exampleLiteral": "now I [not free]",
       "dateAdded": "2026-08-13",
       "position": 200
+    },
+    {
+      "id": "card-ea1d84277a9fe83b-1",
+      "entryType": "Word",
+      "topics": [
+        "Beliefs",
+        "Supernatural"
+      ],
+      "thai": "ผี",
+      "phonetic": "phǐi",
+      "english": "ghost; spirit",
+      "exampleThai": "พวก[ผี]อยู่ที่วัด",
+      "examplePhonetic": "pûak [phǐi] yùu tîi wát",
+      "exampleEnglish": "The [ghosts] are at the temple.",
+      "exampleLiteral": "group [ghosts] be located at temple",
+      "dateAdded": "2026-08-27",
+      "position": 201
+    },
+    {
+      "id": "card-c76fd04282d726fa-1",
+      "entryType": "Structure",
+      "topics": [
+        "Language structure",
+        "Prepositions",
+        "Places"
+      ],
+      "thai": "อยู่ที่",
+      "phonetic": "yùu tîi",
+      "english": "be located at; be at",
+      "exampleThai": "พวกผี[อยู่ที่]วัด",
+      "examplePhonetic": "pûak phǐi [yùu tîi] wát",
+      "exampleEnglish": "The ghosts [are at] the temple.",
+      "exampleLiteral": "group ghosts [be located at] temple",
+      "dateAdded": "2026-08-27",
+      "position": 202
     }
   ]
 }
